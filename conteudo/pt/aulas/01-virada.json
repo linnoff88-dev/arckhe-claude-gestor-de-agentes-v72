@@ -2,11 +2,11 @@
   "slug": "virada",
   "num": 1,
   "menu": "Virada",
-  "titulo": "A virada: de uma conversa por vez para uma equipe de sessões",
-  "titulo_curto": "Da conversa à gestão",
+  "titulo": "A virada: de uma conversa por vez para uma equipe de sessÃµes",
+  "titulo_curto": "Da conversa Ã  gestÃ£o",
   "minutos": 15,
-  "lead": "Até ontem era assim: você abria uma conversa com o Claude, pedia, esperava e só então passava para a próxima. Agora o Claude roda várias sessões ao mesmo tempo, em segundo plano e na nuvem, e mostra numa tela só quem terminou e quem precisa de você. O seu papel muda: de quem pede para quem coordena. Esta aula mostra essa virada e onde entra cada recurso novo.",
-  "objetivo": "explicar a passagem de prompt → agente → gestão de agentes e mapear onde cada recurso novo do Claude entra.",
+  "lead": "AtÃ© ontem era assim: vocÃª abria uma conversa com o Claude, pedia, esperava e sÃ³ entÃ£o passava para a prÃ³xima. Agora o Claude roda vÃ¡rias sessÃµes ao mesmo tempo, em segundo plano e na nuvem, e mostra numa tela sÃ³ quem terminou e quem precisa de vocÃª. O seu papel muda: de quem pede para quem coordena. Esta aula mostra essa virada e onde entra cada recurso novo.",
+  "objetivo": "explicar a passagem de prompt â†’ agente â†’ gestÃ£o de agentes e mapear onde cada recurso novo do Claude entra.",
   "competencias": [
     "entender-a-gestao-de-agentes",
     "mapear-recursos-do-claude",
@@ -15,7 +15,7 @@
   "aprende": [
     {
       "icone": "seta",
-      "t": "Os três degraus: prompt, agente e gestão"
+      "t": "Os trÃªs degraus: prompt, agente e gestÃ£o"
     },
     {
       "icone": "camadas",
@@ -23,25 +23,25 @@
     },
     {
       "icone": "portao",
-      "t": "O que ainda é beta, preview ou experimental"
+      "t": "O que ainda Ã© beta, preview ou experimental"
     },
     {
       "icone": "lista",
       "t": "Achar no seu dia o trabalho que pode correr em paralelo"
     }
   ],
-  "hero_alt": "Uma pessoa numa mesa escura diante de um monitor com várias janelas de conversa lado a lado, cada uma trabalhando.",
+  "hero_alt": "Uma pessoa numa mesa escura diante de um monitor com vÃ¡rias janelas de conversa lado a lado, cada uma trabalhando.",
   "secoes": [
     {
       "tipo": "diagrama",
-      "titulo": "Três degraus: do pedido à gestão",
+      "titulo": "TrÃªs degraus: do pedido Ã  gestÃ£o",
       "sub": "Toque ou clique em cada degrau.",
       "estilo": "escada",
       "nos": [
         {
           "icone": "chat",
           "titulo": "Prompt",
-          "sub": "você pede",
+          "sub": "vocÃª pede",
           "itens": [
             {
               "t": "uma pergunta"
@@ -50,7 +50,7 @@
               "t": "uma resposta"
             }
           ],
-          "detalhe": "Você escreve um pedido (o prompt), o Claude responde, você lê e decide o próximo passo. Uma pessoa e uma IA, uma coisa de cada vez. Quem faz todo o trabalho de juntar as partes é você."
+          "detalhe": "VocÃª escreve um pedido (o prompt), o Claude responde, vocÃª lÃª e decide o prÃ³ximo passo. Uma pessoa e uma IA, uma coisa de cada vez. Quem faz todo o trabalho de juntar as partes Ã© vocÃª."
         },
         {
           "icone": "robo",
@@ -61,15 +61,15 @@
               "t": "uma tarefa inteira"
             },
             {
-              "t": "vários passos sozinho"
+              "t": "vÃ¡rios passos sozinho"
             }
           ],
-          "detalhe": "Agente é o Claude trabalhando sozinho numa tarefa de vários passos: lê arquivos, escreve, confere, corrige. Você entrega a tarefa e volta para ver o resultado. Ainda é uma tarefa por vez, e você espera."
+          "detalhe": "Agente Ã© o Claude trabalhando sozinho numa tarefa de vÃ¡rios passos: lÃª arquivos, escreve, confere, corrige. VocÃª entrega a tarefa e volta para ver o resultado. Ainda Ã© uma tarefa por vez, e vocÃª espera."
         },
         {
           "icone": "usuario",
-          "titulo": "Gestão",
-          "sub": "você coordena",
+          "titulo": "GestÃ£o",
+          "sub": "vocÃª coordena",
           "forte": true,
           "itens": [
             {
@@ -89,15 +89,15 @@
               "icone": "escudo"
             }
           ],
-          "detalhe": "Várias sessões trabalham ao mesmo tempo, cada uma num trabalho. Você não espera nenhuma: acompanha todas, decide quando alguma trava e confere o que ficou pronto. Os recursos novos do Claude se dividem em quatro grupos: ver, coordenar, produzir e controlar."
+          "detalhe": "VÃ¡rias sessÃµes trabalham ao mesmo tempo, cada uma num trabalho. VocÃª nÃ£o espera nenhuma: acompanha todas, decide quando alguma trava e confere o que ficou pronto. Os recursos novos do Claude se dividem em quatro grupos: ver, coordenar, produzir e controlar."
         }
       ],
-      "legenda": "Antes: uma pessoa e uma IA. Agora: uma pessoa coordenando várias sessões.",
+      "legenda": "Antes: uma pessoa e uma IA. Agora: uma pessoa coordenando vÃ¡rias sessÃµes.",
       "rolagem": true,
       "rolagem_fim": {
         "titulo": "De quem pede para quem coordena",
-        "texto": "O Claude continua respondendo e executando. O que muda é o seu trabalho: você passa a administrar uma pequena força de trabalho digital.",
-        "curto": "Você coordena; as sessões executam."
+        "texto": "O Claude continua respondendo e executando. O que muda Ã© o seu trabalho: vocÃª passa a administrar uma pequena forÃ§a de trabalho digital.",
+        "curto": "VocÃª coordena; as sessÃµes executam."
       }
     },
     {
@@ -106,48 +106,48 @@
       "sub": "As palavras que aparecem em todas as aulas. Volte aqui quando esquecer uma.",
       "itens": [
         {
-          "t": "Sessão",
-          "texto": "Uma conversa do Claude com o seu próprio histórico: o que você pediu, o que ele fez e o que leu. Cada sessão é independente."
+          "t": "SessÃ£o",
+          "texto": "Uma conversa do Claude com o seu prÃ³prio histÃ³rico: o que vocÃª pediu, o que ele fez e o que leu. Cada sessÃ£o Ã© independente."
         },
         {
           "t": "Turno",
-          "texto": "Uma rodada da conversa: você manda uma mensagem e o Claude responde. Dez mensagens suas são dez turnos."
+          "texto": "Uma rodada da conversa: vocÃª manda uma mensagem e o Claude responde. Dez mensagens suas sÃ£o dez turnos."
         },
         {
           "t": "Contexto",
-          "texto": "Tudo o que o Claude tem na mesa naquele momento: histórico, arquivos lidos, instruções e a lista de skills. A mesa tem tamanho limitado."
+          "texto": "Tudo o que o Claude tem na mesa naquele momento: histÃ³rico, arquivos lidos, instruÃ§Ãµes e a lista de skills. A mesa tem tamanho limitado."
         },
         {
           "t": "Token",
-          "texto": "Um pedaço de texto, mais ou menos um pedaço de palavra, que o modelo lê e escreve. É a medida do consumo: quanto mais contexto, mais tokens por mensagem."
+          "texto": "Um pedaÃ§o de texto, mais ou menos um pedaÃ§o de palavra, que o modelo lÃª e escreve. Ã‰ a medida do consumo: quanto mais contexto, mais tokens por mensagem."
         },
         {
           "t": "Skill",
-          "texto": "Uma pasta com um arquivo de instruções (SKILL.md) que ensina o Claude a fazer uma tarefa. O nome e a descrição de todas as skills entram no contexto a cada turno, mesmo sem uso."
+          "texto": "Uma pasta com um arquivo de instruÃ§Ãµes (SKILL.md) que ensina o Claude a fazer uma tarefa. O nome e a descriÃ§Ã£o de todas as skills entram no contexto a cada turno, mesmo sem uso."
         },
         {
           "t": "Comando com barra",
-          "texto": "Uma palavra que começa com / digitada onde você escreve os pedidos, como /btw ou /recap. Em vez de virar pedido, ela aciona um recurso do Claude."
+          "texto": "Uma palavra que comeÃ§a com / digitada onde vocÃª escreve os pedidos, como /btw ou /recap. Em vez de virar pedido, ela aciona um recurso do Claude."
         },
         {
           "t": "Terminal e Claude Code",
-          "texto": "O terminal é a janela de texto do computador onde se digitam comandos. O Claude Code é o Claude que trabalha no seu computador: no terminal (comando claude) ou na aba Code do app Desktop."
+          "texto": "O terminal Ã© a janela de texto do computador onde se digitam comandos. O Claude Code Ã© o Claude que trabalha no seu computador: no terminal (comando claude) ou na aba Code do app Desktop."
         },
         {
           "t": "Script",
-          "texto": "Um arquivo com comandos que o computador roda em sequência, um depois do outro."
+          "texto": "Um arquivo com comandos que o computador roda em sequÃªncia, um depois do outro."
         },
         {
           "t": "JSON",
           "texto": "Um formato de texto organizado em campos (nome e valor) que os programas sabem ler."
         },
         {
-          "t": "Repositório",
-          "texto": "A pasta de um projeto guardada com todo o histórico de mudanças, por exemplo no GitHub."
+          "t": "RepositÃ³rio",
+          "texto": "A pasta de um projeto guardada com todo o histÃ³rico de mudanÃ§as, por exemplo no GitHub."
         },
         {
           "t": "git clone",
-          "texto": "O comando que baixa para o seu computador uma cópia de um repositório."
+          "texto": "O comando que baixa para o seu computador uma cÃ³pia de um repositÃ³rio."
         }
       ]
     },
@@ -160,48 +160,48 @@
           "titulo": "Antes",
           "sub": "uma por vez",
           "texto": [
-            "A Ana tem uma agência pequena com três clientes: uma padaria, uma clínica e uma loja de roupas. Toda segunda ela precisa do relatório da padaria, dos posts da clínica e da planilha de preços da loja.",
-            "Ela abria uma conversa, pedia o relatório e esperava. Depois abria outra para os posts. As três tarefas andavam em fila, e a manhã ia embora."
+            "A Ana tem uma agÃªncia pequena com trÃªs clientes: uma padaria, uma clÃ­nica e uma loja de roupas. Toda segunda ela precisa do relatÃ³rio da padaria, dos posts da clÃ­nica e da planilha de preÃ§os da loja.",
+            "Ela abria uma conversa, pedia o relatÃ³rio e esperava. Depois abria outra para os posts. As trÃªs tarefas andavam em fila, e a manhÃ£ ia embora."
           ],
           "exemplo": {
             "rot": "O gargalo",
-            "texto": "Não era o Claude. Era a fila: uma tarefa só começava quando a anterior acabava."
+            "texto": "NÃ£o era o Claude. Era a fila: uma tarefa sÃ³ comeÃ§ava quando a anterior acabava."
           }
         },
         {
-          "titulo": "Sessão",
+          "titulo": "SessÃ£o",
           "sub": "a palavra-chave",
           "texto": [
-            "Sessão é uma conversa do Claude com o seu próprio histórico: o que você pediu, o que ele fez e os arquivos que leu. Cada sessão é independente da outra.",
-            "Se cada cliente da Ana tem a sua sessão, as três podem trabalhar ao mesmo tempo, sem uma misturar o assunto da outra."
+            "SessÃ£o Ã© uma conversa do Claude com o seu prÃ³prio histÃ³rico: o que vocÃª pediu, o que ele fez e os arquivos que leu. Cada sessÃ£o Ã© independente da outra.",
+            "Se cada cliente da Ana tem a sua sessÃ£o, as trÃªs podem trabalhar ao mesmo tempo, sem uma misturar o assunto da outra."
           ],
           "exemplo": {
             "rot": "Pense assim",
-            "texto": "Uma sessão é como um funcionário com a sua própria mesa e a sua própria pasta. Três sessões, três mesas."
+            "texto": "Uma sessÃ£o Ã© como um funcionÃ¡rio com a sua prÃ³pria mesa e a sua prÃ³pria pasta. TrÃªs sessÃµes, trÃªs mesas."
           }
         },
         {
           "titulo": "Agora",
-          "sub": "várias juntas",
+          "sub": "vÃ¡rias juntas",
           "texto": [
-            "A Ana dispara as três sessões de manhã e vai cuidar de outra coisa. Numa tela só, ela vê qual terminou, qual está trabalhando e qual parou com uma dúvida.",
-            "Ela só entra quando uma sessão precisa dela: aprovar um preço, escolher entre dois títulos, conferir o relatório pronto."
+            "A Ana dispara as trÃªs sessÃµes de manhÃ£ e vai cuidar de outra coisa. Numa tela sÃ³, ela vÃª qual terminou, qual estÃ¡ trabalhando e qual parou com uma dÃºvida.",
+            "Ela sÃ³ entra quando uma sessÃ£o precisa dela: aprovar um preÃ§o, escolher entre dois tÃ­tulos, conferir o relatÃ³rio pronto."
           ],
           "exemplo": {
-            "rot": "A tese do INEMA",
-            "texto": "Humano nas decisões, IA executando em equipe. É administrar uma força de trabalho digital, não digitar mais rápido."
+            "rot": "A tese do ARCKHÉ",
+            "texto": "Humano nas decisÃµes, IA executando em equipe. Ã‰ administrar uma forÃ§a de trabalho digital, nÃ£o digitar mais rÃ¡pido."
           }
         },
         {
           "titulo": "O que falta",
-          "sub": "sem ilusão",
+          "sub": "sem ilusÃ£o",
           "texto": [
-            "Rodar várias sessões não é ter uma plataforma completa de gestão de agentes. Ainda faltam peças: permissões, controle de custo, filas, memória que dura, métricas, registro do que foi feito e recuperação quando algo falha.",
-            "Essas peças quem monta é você, o gestor. O curso ensina cada recurso e, na aula 8, junta tudo num sistema seu."
+            "Rodar vÃ¡rias sessÃµes nÃ£o Ã© ter uma plataforma completa de gestÃ£o de agentes. Ainda faltam peÃ§as: permissÃµes, controle de custo, filas, memÃ³ria que dura, mÃ©tricas, registro do que foi feito e recuperaÃ§Ã£o quando algo falha.",
+            "Essas peÃ§as quem monta Ã© vocÃª, o gestor. O curso ensina cada recurso e, na aula 8, junta tudo num sistema seu."
           ],
           "exemplo": {
             "rot": "E o tal \"Claude 2.0\"?",
-            "texto": "Tem gente chamando esse conjunto de recursos de \"Claude 2.0\". É apelido: não existe produto com esse nome, e Claude 2 foi um modelo antigo. Aqui usamos os nomes oficiais."
+            "texto": "Tem gente chamando esse conjunto de recursos de \"Claude 2.0\". Ã‰ apelido: nÃ£o existe produto com esse nome, e Claude 2 foi um modelo antigo. Aqui usamos os nomes oficiais."
           }
         }
       ]
@@ -209,33 +209,33 @@
     {
       "tipo": "passos",
       "titulo": "O mapa: quatro grupos de recursos",
-      "sub": "Cada grupo responde a uma pergunta do gestor. O selo diz o que ainda está em teste.",
+      "sub": "Cada grupo responde a uma pergunta do gestor. O selo diz o que ainda estÃ¡ em teste.",
       "passos": [
         {
           "titulo": "Ver",
           "sub": "aulas 2 e 3",
           "texto": [
-            "<b>Pergunta:</b> o que está acontecendo agora?",
-            "<b>Agent view</b> (<code>claude agents</code>, no Claude Code): uma tela com todas as sessões em segundo plano, agrupadas por quem precisa de você, quem está trabalhando e quem terminou. Status: <b>research preview</b> (prévia de pesquisa, pode mudar).",
-            "<b>Split view</b> (no app Desktop, aba Code): duas sessões lado a lado na mesma janela. Recurso oficial do app."
+            "<b>Pergunta:</b> o que estÃ¡ acontecendo agora?",
+            "<b>Agent view</b> (<code>claude agents</code>, no Claude Code): uma tela com todas as sessÃµes em segundo plano, agrupadas por quem precisa de vocÃª, quem estÃ¡ trabalhando e quem terminou. Status: <b>research preview</b> (prÃ©via de pesquisa, pode mudar).",
+            "<b>Split view</b> (no app Desktop, aba Code): duas sessÃµes lado a lado na mesma janela. Recurso oficial do app."
           ],
           "exemplo": {
-            "rot": "Na agência",
-            "texto": "A Ana abre uma tela e vê: padaria pronta, clínica trabalhando, loja esperando por ela."
+            "rot": "Na agÃªncia",
+            "texto": "A Ana abre uma tela e vÃª: padaria pronta, clÃ­nica trabalhando, loja esperando por ela."
           }
         },
         {
           "titulo": "Coordenar",
           "sub": "aulas 3, 4 e 5",
           "texto": [
-            "<b>Pergunta:</b> quem faz o quê, e onde?",
-            "<b>Segundo plano</b> (<code>claude --bg</code>): a sessão trabalha sem ocupar o seu terminal. <b>Sessão gestora</b>: um conceito do curso. Sem terminal, o 1º caminho é o app Desktop: na aba Code, uma sessão lista as outras, lê o que cada uma fez e manda mensagens entre elas. No terminal, a agent view; na nuvem, Projects; e ainda agent teams.",
-            "<b>Agent teams</b>: uma sessão líder distribui tarefas para colegas. Status: <b>experimental</b>, desligado por padrão.",
-            "<b>Projects</b> (do Claude Code, na nuvem): uma conversa que abre uma thread, uma linha de trabalho separada, para cada tarefa. Status: <b>beta pública</b> nos planos Pro e Max, liberando aos poucos. Não confunda com os Projetos do chat do claude.ai, que são pastas de conversas."
+            "<b>Pergunta:</b> quem faz o quÃª, e onde?",
+            "<b>Segundo plano</b> (<code>claude --bg</code>): a sessÃ£o trabalha sem ocupar o seu terminal. <b>SessÃ£o gestora</b>: um conceito do curso. Sem terminal, o 1Âº caminho Ã© o app Desktop: na aba Code, uma sessÃ£o lista as outras, lÃª o que cada uma fez e manda mensagens entre elas. No terminal, a agent view; na nuvem, Projects; e ainda agent teams.",
+            "<b>Agent teams</b>: uma sessÃ£o lÃ­der distribui tarefas para colegas. Status: <b>experimental</b>, desligado por padrÃ£o.",
+            "<b>Projects</b> (do Claude Code, na nuvem): uma conversa que abre uma thread, uma linha de trabalho separada, para cada tarefa. Status: <b>beta pÃºblica</b> nos planos Pro e Max, liberando aos poucos. NÃ£o confunda com os Projetos do chat do claude.ai, que sÃ£o pastas de conversas."
           ],
           "exemplo": {
-            "rot": "Na agência",
-            "texto": "Uma sessão por cliente, e uma conversa que acompanha as três e só chama a Ana quando precisa."
+            "rot": "Na agÃªncia",
+            "texto": "Uma sessÃ£o por cliente, e uma conversa que acompanha as trÃªs e sÃ³ chama a Ana quando precisa."
           }
         },
         {
@@ -243,47 +243,47 @@
           "sub": "aula 6",
           "texto": [
             "<b>Pergunta:</b> como o resultado chega a outra pessoa?",
-            "<b>Artifacts</b> no claude.ai: o resultado vira documento (Docs), apresentação (Slides) ou design (Design), já fora do beta. Painéis (dashboards) e Motion, vídeo animado feito por código, estão em <b>beta</b>.",
-            "O artifact nasce privado e você decide com quem compartilhar o link."
+            "<b>Artifacts</b> no claude.ai: o resultado vira documento (Docs), apresentaÃ§Ã£o (Slides) ou design (Design), jÃ¡ fora do beta. PainÃ©is (dashboards) e Motion, vÃ­deo animado feito por cÃ³digo, estÃ£o em <b>beta</b>.",
+            "O artifact nasce privado e vocÃª decide com quem compartilhar o link."
           ],
           "exemplo": {
-            "rot": "Na agência",
-            "texto": "O relatório da padaria vira um documento com link, que o dono da padaria abre no celular."
+            "rot": "Na agÃªncia",
+            "texto": "O relatÃ³rio da padaria vira um documento com link, que o dono da padaria abre no celular."
           }
         },
         {
           "titulo": "Controlar",
           "sub": "aulas 2 e 7",
           "texto": [
-            "<b>Pergunta:</b> está tudo saudável e dentro do custo?",
-            "<b>Comandos com barra</b> do Claude Code: <code>/btw</code> faz uma pergunta lateral, <code>/recap</code> dá um resumo de uma linha e <code>/doctor</code> faz um diagnóstico da instalação.",
-            "<code>/skill-doctor</code> mostra quais skills instaladas você não usa e quanto contexto elas ocupam, para você desligar as que sobram. <code>/advisor</code> chama um modelo mais forte nos momentos-chave, e por isso consome mais.",
-            "<b>Mods</b>: plugins (extensões) que mudam como o Claude Code aparece, como uma status line, a linha no rodapé que mostra o uso do contexto e do plano."
+            "<b>Pergunta:</b> estÃ¡ tudo saudÃ¡vel e dentro do custo?",
+            "<b>Comandos com barra</b> do Claude Code: <code>/btw</code> faz uma pergunta lateral, <code>/recap</code> dÃ¡ um resumo de uma linha e <code>/doctor</code> faz um diagnÃ³stico da instalaÃ§Ã£o.",
+            "<code>/skill-doctor</code> mostra quais skills instaladas vocÃª nÃ£o usa e quanto contexto elas ocupam, para vocÃª desligar as que sobram. <code>/advisor</code> chama um modelo mais forte nos momentos-chave, e por isso consome mais.",
+            "<b>Mods</b>: plugins (extensÃµes) que mudam como o Claude Code aparece, como uma status line, a linha no rodapÃ© que mostra o uso do contexto e do plano."
           ],
           "exemplo": {
-            "rot": "Na agência",
-            "texto": "No fim do dia, a Ana roda um resumo de cada sessão e confere quanto contexto cada uma gastou."
+            "rot": "Na agÃªncia",
+            "texto": "No fim do dia, a Ana roda um resumo de cada sessÃ£o e confere quanto contexto cada uma gastou."
           }
         }
       ]
     },
     {
       "tipo": "codigo",
-      "titulo": "Modelo: o inventário do seu trabalho",
-      "sub": "Antes de coordenar sessões, descubra o que pode correr junto. Troque o texto entre < > pelo seu.",
+      "titulo": "Modelo: o inventÃ¡rio do seu trabalho",
+      "sub": "Antes de coordenar sessÃµes, descubra o que pode correr junto. Troque o texto entre < > pelo seu.",
       "blocos": [
         {
           "rot": "inventario.txt",
           "icone": "arquivo",
-          "conteudo": "Trabalho 1: <um trabalho que você faz toda semana>\nTrabalho 2: <outro trabalho>\nTrabalho 3: <mais um>\nParalelo: <quais podem correr ao mesmo tempo (sim) e quais dependem de outro (não), e por quê>\nPrecisa de mim quando: <em que momento cada trabalho precisa de uma decisão sua>"
+          "conteudo": "Trabalho 1: <um trabalho que vocÃª faz toda semana>\nTrabalho 2: <outro trabalho>\nTrabalho 3: <mais um>\nParalelo: <quais podem correr ao mesmo tempo (sim) e quais dependem de outro (nÃ£o), e por quÃª>\nPrecisa de mim quando: <em que momento cada trabalho precisa de uma decisÃ£o sua>"
         },
         {
-          "rot": "Peça ajuda ao Claude (chat, app ou terminal)",
+          "rot": "PeÃ§a ajuda ao Claude (chat, app ou terminal)",
           "icone": "chat",
-          "conteudo": "Vou listar três trabalhos que faço toda semana, um de cada vez.\nPara cada um, me diga:\n1. se ele pode correr ao mesmo tempo que os outros ou se depende de algum;\n2. em que momento ele precisa de uma decisão minha.\nResponda no formato do inventario.txt abaixo, sem inventar trabalho novo.\n\n<cole aqui os seus três trabalhos>"
+          "conteudo": "Vou listar trÃªs trabalhos que faÃ§o toda semana, um de cada vez.\nPara cada um, me diga:\n1. se ele pode correr ao mesmo tempo que os outros ou se depende de algum;\n2. em que momento ele precisa de uma decisÃ£o minha.\nResponda no formato do inventario.txt abaixo, sem inventar trabalho novo.\n\n<cole aqui os seus trÃªs trabalhos>"
         },
         {
-          "rot": "Confira a sua versão do Claude Code",
+          "rot": "Confira a sua versÃ£o do Claude Code",
           "icone": "terminal",
           "conteudo": "claude --version"
         }
@@ -292,30 +292,30 @@
         "selo": "simulacao",
         "abas": [
           {
-            "rot": "Inventário da Ana",
-            "html": "<ul><li><b>Trabalho 1:</b> relatório semanal de vendas da padaria.</li><li><b>Trabalho 2:</b> três posts da semana para a clínica.</li><li><b>Trabalho 3:</b> planilha de preços atualizada da loja de roupas.</li><li><b>Paralelo:</b> sim para os três; nenhum depende do outro, cada um usa os arquivos do próprio cliente.</li><li><b>Precisa de mim quando:</b> aprovar os preços novos da loja e escolher o tema dos posts antes de publicar.</li></ul>"
+            "rot": "InventÃ¡rio da Ana",
+            "html": "<ul><li><b>Trabalho 1:</b> relatÃ³rio semanal de vendas da padaria.</li><li><b>Trabalho 2:</b> trÃªs posts da semana para a clÃ­nica.</li><li><b>Trabalho 3:</b> planilha de preÃ§os atualizada da loja de roupas.</li><li><b>Paralelo:</b> sim para os trÃªs; nenhum depende do outro, cada um usa os arquivos do prÃ³prio cliente.</li><li><b>Precisa de mim quando:</b> aprovar os preÃ§os novos da loja e escolher o tema dos posts antes de publicar.</li></ul>"
           },
           {
-            "rot": "Inventário de um consultor",
-            "html": "<ul><li><b>Trabalho 1:</b> relatório mensal para o cliente.</li><li><b>Trabalho 2:</b> página do site com o resumo do relatório.</li><li><b>Trabalho 3:</b> planilha com os números do mês.</li><li><b>Paralelo:</b> sim para 1 e 3; não para o 2, porque a página usa o relatório pronto.</li><li><b>Precisa de mim quando:</b> os números da planilha não batem com o relatório.</li></ul>"
+            "rot": "InventÃ¡rio de um consultor",
+            "html": "<ul><li><b>Trabalho 1:</b> relatÃ³rio mensal para o cliente.</li><li><b>Trabalho 2:</b> pÃ¡gina do site com o resumo do relatÃ³rio.</li><li><b>Trabalho 3:</b> planilha com os nÃºmeros do mÃªs.</li><li><b>Paralelo:</b> sim para 1 e 3; nÃ£o para o 2, porque a pÃ¡gina usa o relatÃ³rio pronto.</li><li><b>Precisa de mim quando:</b> os nÃºmeros da planilha nÃ£o batem com o relatÃ³rio.</li></ul>"
           },
           {
             "rot": "Erros comuns",
-            "html": "<ul><li><b>Trabalho grande demais</b> (\"cuidar do marketing\"): quebre em entregas de uma semana.</li><li><b>Tudo em paralelo sem olhar</b>: se B usa o resultado de A, B espera.</li><li><b>\"Precisa de mim: quando der\"</b>: o ponto de decisão tem de ser um momento claro.</li></ul>"
+            "html": "<ul><li><b>Trabalho grande demais</b> (\"cuidar do marketing\"): quebre em entregas de uma semana.</li><li><b>Tudo em paralelo sem olhar</b>: se B usa o resultado de A, B espera.</li><li><b>\"Precisa de mim: quando der\"</b>: o ponto de decisÃ£o tem de ser um momento claro.</li></ul>"
           },
           {
-            "rot": "Versão",
-            "html": "<pre>2.1.312 (Claude Code)</pre><p>O número muda com as atualizações. Recursos em preview ou beta podem aparecer, mudar ou depender do plano: confira na sua versão e na barra lateral do app.</p>"
+            "rot": "VersÃ£o",
+            "html": "<pre>2.1.312 (Claude Code)</pre><p>O nÃºmero muda com as atualizaÃ§Ãµes. Recursos em preview ou beta podem aparecer, mudar ou depender do plano: confira na sua versÃ£o e na barra lateral do app.</p>"
           }
         ]
       }
     },
     {
       "tipo": "conferidor",
-      "titulo": "Confira o seu inventário",
-      "sub": "Cole o seu inventário (ou carregue o .txt). A página confere os cinco campos, pede na linha Paralelo um \"sim\", \"não\", \"juntos\" ou \"ao mesmo tempo\" (e recusa \"não sei\") e recusa respostas vagas como \"quando der\" ou \"o tempo todo\" no ponto de decisão. É uma checagem de forma: se a escolha faz sentido, quem decide é você.",
+      "titulo": "Confira o seu inventÃ¡rio",
+      "sub": "Cole o seu inventÃ¡rio (ou carregue o .txt). A pÃ¡gina confere os cinco campos, pede na linha Paralelo um \"sim\", \"nÃ£o\", \"juntos\" ou \"ao mesmo tempo\" (e recusa \"nÃ£o sei\") e recusa respostas vagas como \"quando der\" ou \"o tempo todo\" no ponto de decisÃ£o. Ã‰ uma checagem de forma: se a escolha faz sentido, quem decide Ã© vocÃª.",
       "arquivo": "inventario.txt",
-      "rot": "Cole aqui o seu inventário (um campo por linha):",
+      "rot": "Cole aqui o seu inventÃ¡rio (um campo por linha):",
       "modelo": "Trabalho 1: ...\nTrabalho 2: ...\nTrabalho 3: ...\nParalelo: ...\nPrecisa de mim quando: ...",
       "regras": [
         {
@@ -333,11 +333,11 @@
           "tipo": "termos",
           "grupos": [
             {
-              "rot": "na linha Paralelo um sim ou um não",
+              "rot": "na linha Paralelo um sim ou um nÃ£o",
               "campo": "Paralelo",
               "termos": [
-                "sim / yes / sí / si",
-                "não / nao / no",
+                "sim / yes / sÃ­ / si",
+                "nÃ£o / nao / no",
                 "nenhum / nenhuma / none / ninguno / ninguna",
                 "todos / todas / all / ambos / both",
                 "juntos / juntas / together / juntos al",
@@ -363,7 +363,7 @@
                 "sempre que der / sempre que puder / whenever possible / siempre que pueda",
                 "o tempo todo / all the time / todo el tiempo",
                 "tanto faz / whatever / da igual",
-                "não sei / nao sei / I don't know / no sé"
+                "nÃ£o sei / nao sei / I don't know / no sÃ©"
               ]
             }
           ]
@@ -376,83 +376,83 @@
               "campo": "Paralelo",
               "proibe": true,
               "termos": [
-                "não sei / nao sei / I don't know / no sé",
-                "talvez / maybe / quizás / tal vez"
+                "nÃ£o sei / nao sei / I don't know / no sÃ©",
+                "talvez / maybe / quizÃ¡s / tal vez"
               ]
             }
           ]
         }
       ],
-      "ok": "OK: inventário com os {n} campos preenchidos",
-      "exemplo": "Trabalho 1: relatório semanal de vendas da padaria.\nTrabalho 2: três posts da semana para a clínica.\nTrabalho 3: planilha de preços atualizada da loja de roupas.\nParalelo: sim para os três; nenhum depende do outro.\nPrecisa de mim quando: aprovar os preços novos da loja e escolher o tema dos posts.",
-      "exemplo_errado": "Trabalho 1: relatório semanal de vendas da padaria.\nTrabalho 2: posts da clínica.\nParalelo: acho que dá para fazer junto.\nPrecisa de mim quando: quando der."
+      "ok": "OK: inventÃ¡rio com os {n} campos preenchidos",
+      "exemplo": "Trabalho 1: relatÃ³rio semanal de vendas da padaria.\nTrabalho 2: trÃªs posts da semana para a clÃ­nica.\nTrabalho 3: planilha de preÃ§os atualizada da loja de roupas.\nParalelo: sim para os trÃªs; nenhum depende do outro.\nPrecisa de mim quando: aprovar os preÃ§os novos da loja e escolher o tema dos posts.",
+      "exemplo_errado": "Trabalho 1: relatÃ³rio semanal de vendas da padaria.\nTrabalho 2: posts da clÃ­nica.\nParalelo: acho que dÃ¡ para fazer junto.\nPrecisa de mim quando: quando der."
     },
     {
       "tipo": "pratica",
-      "titulo": "Prática: o seu inventário",
-      "sub": "Não precisa de terminal: papel, bloco de notas ou uma conversa no claude.ai servem.",
+      "titulo": "PrÃ¡tica: o seu inventÃ¡rio",
+      "sub": "NÃ£o precisa de terminal: papel, bloco de notas ou uma conversa no claude.ai servem.",
       "exercicios": [
         {
           "id": "e1",
-          "titulo": "E1 · Três trabalhos da sua semana",
+          "titulo": "E1 Â· TrÃªs trabalhos da sua semana",
           "min": "10 min",
-          "texto": "Liste três trabalhos que hoje você faz um de cada vez. Prefira entregas de uma semana (um relatório, três posts, uma planilha), não áreas inteiras (\"o marketing\").",
-          "pronto": "você tem três linhas, cada uma com uma entrega que dá para dizer se ficou pronta."
+          "texto": "Liste trÃªs trabalhos que hoje vocÃª faz um de cada vez. Prefira entregas de uma semana (um relatÃ³rio, trÃªs posts, uma planilha), nÃ£o Ã¡reas inteiras (\"o marketing\").",
+          "pronto": "vocÃª tem trÃªs linhas, cada uma com uma entrega que dÃ¡ para dizer se ficou pronta."
         },
         {
           "id": "e2",
-          "titulo": "E2 · Paralelo ou fila?",
+          "titulo": "E2 Â· Paralelo ou fila?",
           "min": "10 min",
-          "texto": "Para cada trabalho, marque se pode correr ao mesmo tempo que os outros. Se um usa o resultado de outro, ele espera. Anote o momento em que cada um precisa de uma decisão sua. Se quiser, use o pedido do modelo no claude.ai.",
-          "pronto": "o conferidor acima responde \"OK: inventário com os 5 campos preenchidos\"."
+          "texto": "Para cada trabalho, marque se pode correr ao mesmo tempo que os outros. Se um usa o resultado de outro, ele espera. Anote o momento em que cada um precisa de uma decisÃ£o sua. Se quiser, use o pedido do modelo no claude.ai.",
+          "pronto": "o conferidor acima responde \"OK: inventÃ¡rio com os 5 campos preenchidos\"."
         },
         {
           "id": "e3",
-          "titulo": "E3 · Ache no mapa",
+          "titulo": "E3 Â· Ache no mapa",
           "min": "5 min",
-          "texto": "Olhe os quatro grupos (ver, coordenar, produzir, controlar) e escreva, ao lado do inventário, qual grupo você mais precisa agora e em que aula ele aparece.",
-          "pronto": "o inventário tem uma linha a mais com um grupo e o número da aula."
+          "texto": "Olhe os quatro grupos (ver, coordenar, produzir, controlar) e escreva, ao lado do inventÃ¡rio, qual grupo vocÃª mais precisa agora e em que aula ele aparece.",
+          "pronto": "o inventÃ¡rio tem uma linha a mais com um grupo e o nÃºmero da aula."
         }
       ]
     },
     {
       "tipo": "video",
-      "titulo": "A aula 1 em vídeo",
+      "titulo": "A aula 1 em vÃ­deo",
       "sub": "O mecanismo da aula explicado em cerca de dois minutos e meio.",
       "chave": "cga-a1"
     },
     {
       "tipo": "quiz",
       "titulo": "Teste o que aprendeu",
-      "sub": "A explicação aparece depois da sua resposta.",
+      "sub": "A explicaÃ§Ã£o aparece depois da sua resposta.",
       "perguntas": [
         {
-          "p": "O que muda no seu papel quando você passa do agente para a gestão de agentes?",
+          "p": "O que muda no seu papel quando vocÃª passa do agente para a gestÃ£o de agentes?",
           "opcoes": [
-            "Você passa a escrever prompts mais longos e detalhados.",
-            "Você troca o Claude por um modelo mais rápido.",
-            "Você coordena várias sessões e entra só nas decisões.",
-            "Você deixa de conferir o que as sessões entregam."
+            "VocÃª passa a escrever prompts mais longos e detalhados.",
+            "VocÃª troca o Claude por um modelo mais rÃ¡pido.",
+            "VocÃª coordena vÃ¡rias sessÃµes e entra sÃ³ nas decisÃµes.",
+            "VocÃª deixa de conferir o que as sessÃµes entregam."
           ],
           "certa": 2,
-          "explica": "Na gestão, várias sessões trabalham ao mesmo tempo e você acompanha, decide e confere. O erro comum é achar que gestão é largar tudo: conferir continua sendo trabalho seu.",
+          "explica": "Na gestÃ£o, vÃ¡rias sessÃµes trabalham ao mesmo tempo e vocÃª acompanha, decide e confere. O erro comum Ã© achar que gestÃ£o Ã© largar tudo: conferir continua sendo trabalho seu.",
           "cert": true,
           "ref": "diagrama"
         },
         {
-          "p": "O que é uma sessão, no sentido deste curso?",
+          "p": "O que Ã© uma sessÃ£o, no sentido deste curso?",
           "opcoes": [
-            "Uma conversa do Claude com o seu próprio histórico, independente das outras.",
-            "O tempo em que você fica logado no claude.ai.",
+            "Uma conversa do Claude com o seu prÃ³prio histÃ³rico, independente das outras.",
+            "O tempo em que vocÃª fica logado no claude.ai.",
             "Um plano pago do Claude.",
             "Uma pasta de arquivos compartilhada entre todas as conversas do mesmo projeto."
           ],
           "certa": 0,
-          "explica": "Cada sessão guarda o que você pediu, o que ela fez e o que leu. Por isso três sessões não misturam os assuntos. Não tem a ver com login nem com plano.",
+          "explica": "Cada sessÃ£o guarda o que vocÃª pediu, o que ela fez e o que leu. Por isso trÃªs sessÃµes nÃ£o misturam os assuntos. NÃ£o tem a ver com login nem com plano.",
           "ref": "passos"
         },
         {
-          "p": "A Ana quer ver numa tela só quais sessões terminaram e qual está esperando por ela. Em que grupo isso está?",
+          "p": "A Ana quer ver numa tela sÃ³ quais sessÃµes terminaram e qual estÃ¡ esperando por ela. Em que grupo isso estÃ¡?",
           "opcoes": [
             "Produzir, com os artifacts.",
             "Controlar, com o /doctor.",
@@ -460,11 +460,11 @@
             "Ver, com a agent view."
           ],
           "certa": 3,
-          "explica": "A agent view (claude agents) agrupa as sessões por quem precisa de você, quem trabalha e quem terminou. Agent teams distribui tarefas, mas não é a tela de acompanhamento.",
+          "explica": "A agent view (claude agents) agrupa as sessÃµes por quem precisa de vocÃª, quem trabalha e quem terminou. Agent teams distribui tarefas, mas nÃ£o Ã© a tela de acompanhamento.",
           "ref": "passos"
         },
         {
-          "p": "Qual destes recursos está marcado como experimental e vem desligado por padrão?",
+          "p": "Qual destes recursos estÃ¡ marcado como experimental e vem desligado por padrÃ£o?",
           "opcoes": [
             "O split view do app Desktop.",
             "Agent teams.",
@@ -472,30 +472,30 @@
             "O comando /recap."
           ],
           "certa": 1,
-          "explica": "Agent teams precisa ser ligado à mão. A agent view é research preview e Projects é beta; Docs já saiu do beta. Vale conferir o status antes de montar uma rotina em cima de um recurso.",
+          "explica": "Agent teams precisa ser ligado Ã  mÃ£o. A agent view Ã© research preview e Projects Ã© beta; Docs jÃ¡ saiu do beta. Vale conferir o status antes de montar uma rotina em cima de um recurso.",
           "ref": "passos"
         },
         {
-          "p": "Rodar várias sessões ao mesmo tempo já é uma plataforma completa de gestão de agentes?",
+          "p": "Rodar vÃ¡rias sessÃµes ao mesmo tempo jÃ¡ Ã© uma plataforma completa de gestÃ£o de agentes?",
           "opcoes": [
-            "Sim, a agent view já cuida sozinha de custo, permissões, filas, auditoria e recuperação.",
-            "Sim, desde que você use o plano Max.",
-            "Não: permissões, custo, filas, métricas e recuperação de falhas ainda são montados por você.",
-            "Não, porque o Claude só consegue rodar uma sessão de cada vez."
+            "Sim, a agent view jÃ¡ cuida sozinha de custo, permissÃµes, filas, auditoria e recuperaÃ§Ã£o.",
+            "Sim, desde que vocÃª use o plano Max.",
+            "NÃ£o: permissÃµes, custo, filas, mÃ©tricas e recuperaÃ§Ã£o de falhas ainda sÃ£o montados por vocÃª.",
+            "NÃ£o, porque o Claude sÃ³ consegue rodar uma sessÃ£o de cada vez."
           ],
           "certa": 2,
-          "explica": "As sessões em paralelo são a base. O resto do sistema (regras, custo, registro, recuperação) quem monta é o gestor, e é isso que a aula 8 junta.",
+          "explica": "As sessÃµes em paralelo sÃ£o a base. O resto do sistema (regras, custo, registro, recuperaÃ§Ã£o) quem monta Ã© o gestor, e Ã© isso que a aula 8 junta.",
           "ref": "passos"
         }
       ]
     },
     {
       "tipo": "resumo",
-      "titulo": "A aula em três frases",
+      "titulo": "A aula em trÃªs frases",
       "itens": [
         {
           "t": "A virada",
-          "texto": "De uma pessoa e uma IA para uma pessoa coordenando várias sessões."
+          "texto": "De uma pessoa e uma IA para uma pessoa coordenando vÃ¡rias sessÃµes."
         },
         {
           "t": "O mapa",
@@ -503,26 +503,26 @@
         },
         {
           "t": "Os selos",
-          "texto": "Agent view é preview, agent teams é experimental, Projects é beta: confira antes de depender."
+          "texto": "Agent view Ã© preview, agent teams Ã© experimental, Projects Ã© beta: confira antes de depender."
         }
       ]
     },
     {
       "tipo": "links",
-      "titulo": "Para ir além",
+      "titulo": "Para ir alÃ©m",
       "links": [
         {
-          "t": "Agent view: documentação oficial (em inglês)",
+          "t": "Agent view: documentaÃ§Ã£o oficial (em inglÃªs)",
           "href": "https://code.claude.com/docs/en/agent-view",
           "icone": "lupa"
         },
         {
-          "t": "Agent teams: documentação oficial (em inglês)",
+          "t": "Agent teams: documentaÃ§Ã£o oficial (em inglÃªs)",
           "href": "https://code.claude.com/docs/en/agent-teams",
           "icone": "robo"
         },
         {
-          "t": "Projects no Claude Code: documentação oficial (em inglês)",
+          "t": "Projects no Claude Code: documentaÃ§Ã£o oficial (em inglÃªs)",
           "href": "https://code.claude.com/docs/en/claude-projects",
           "icone": "nuvem"
         }

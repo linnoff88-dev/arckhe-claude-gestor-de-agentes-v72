@@ -2,11 +2,11 @@
   "slug": "sistema",
   "num": 8,
   "menu": "Sistema",
-  "titulo": "Seu sistema de gestão: rotina, ciclo e limites",
+  "titulo": "Seu sistema de gestÃ£o: rotina, ciclo e limites",
   "titulo_curto": "Seu sistema",
   "minutos": 18,
-  "lead": "Você já sabe abrir sessões, mandar para o segundo plano, coordenar, subir para a nuvem e controlar o custo. Falta juntar tudo num jeito de trabalhar que se repete todo dia. Nesta aula você monta o seu manual de gestão em uma página e vê, com honestidade, o que ainda falta para isso virar uma plataforma completa.",
-  "objetivo": "montar seu sistema de gestão de agentes: rotina diária, ciclo observar-criticar-otimizar-validar e os limites.",
+  "lead": "VocÃª jÃ¡ sabe abrir sessÃµes, mandar para o segundo plano, coordenar, subir para a nuvem e controlar o custo. Falta juntar tudo num jeito de trabalhar que se repete todo dia. Nesta aula vocÃª monta o seu manual de gestÃ£o em uma pÃ¡gina e vÃª, com honestidade, o que ainda falta para isso virar uma plataforma completa.",
+  "objetivo": "montar seu sistema de gestÃ£o de agentes: rotina diÃ¡ria, ciclo observar-criticar-otimizar-validar e os limites.",
   "competencias": [
     "gerir-forca-de-trabalho-digital",
     "aplicar-ciclo-de-validacao",
@@ -23,21 +23,21 @@
     },
     {
       "icone": "calendario",
-      "t": "A rotina de manhã, durante e no fim do dia"
+      "t": "A rotina de manhÃ£, durante e no fim do dia"
     },
     {
       "icone": "portao",
-      "t": "O que ainda falta e você monta à mão"
+      "t": "O que ainda falta e vocÃª monta Ã  mÃ£o"
     }
   ],
-  "hero_alt": "Reunião numa mesa escura: uma pessoa à cabeceira e quatro robôs humanoides em volta, cada um com um tablet.",
+  "hero_alt": "ReuniÃ£o numa mesa escura: uma pessoa Ã  cabeceira e quatro robÃ´s humanoides em volta, cada um com um tablet.",
   "secoes": [
     {
       "tipo": "diagrama",
       "titulo": "O ciclo antes do pronto",
       "sub": "Toque ou clique em cada etapa.",
       "estilo": "fluxo",
-      "volta": "não passou? volta a observar",
+      "volta": "nÃ£o passou? volta a observar",
       "nos": [
         {
           "icone": "lupa",
@@ -51,7 +51,7 @@
               "t": "/recap"
             }
           ],
-          "detalhe": "Olhe o que cada sessão fez antes de opinar. Na agent view (claude agents), o filtro s:blocked mostra tudo que espera por você. Ao entrar numa sessão, o Claude resume o que aconteceu enquanto você estava fora. No Projects, o Overview mostra um ponto na thread que espera por você."
+          "detalhe": "Olhe o que cada sessÃ£o fez antes de opinar. Na agent view (claude agents), o filtro s:blocked mostra tudo que espera por vocÃª. Ao entrar numa sessÃ£o, o Claude resume o que aconteceu enquanto vocÃª estava fora. No Projects, o Overview mostra um ponto na thread que espera por vocÃª."
         },
         {
           "icone": "caneta",
@@ -65,7 +65,7 @@
               "t": "erro comum"
             }
           ],
-          "detalhe": "Compare a entrega com a sua regra de pronto, não com a sua impressão. A regra tem de ser conferível: \"cita a data de cada post\", \"o cliente aprova sem correção\". Anote o que faltou."
+          "detalhe": "Compare a entrega com a sua regra de pronto, nÃ£o com a sua impressÃ£o. A regra tem de ser conferÃ­vel: \"cita a data de cada post\", \"o cliente aprova sem correÃ§Ã£o\". Anote o que faltou."
         },
         {
           "icone": "chip",
@@ -73,13 +73,13 @@
           "sub": "ajustar",
           "itens": [
             {
-              "t": "instruções"
+              "t": "instruÃ§Ãµes"
             },
             {
               "t": "skills e modelo"
             }
           ],
-          "detalhe": "Corrija a causa, não só a entrega: ajuste as instruções da sessão ou do projeto, desligue a skill que atrapalha, ligue o /advisor numa decisão grande. Uma mudança de cada vez, para saber o que funcionou."
+          "detalhe": "Corrija a causa, nÃ£o sÃ³ a entrega: ajuste as instruÃ§Ãµes da sessÃ£o ou do projeto, desligue a skill que atrapalha, ligue o /advisor numa decisÃ£o grande. Uma mudanÃ§a de cada vez, para saber o que funcionou."
         },
         {
           "icone": "check",
@@ -90,7 +90,7 @@
               "t": "pronto quando"
             }
           ],
-          "detalhe": "Rode de novo e confira pela regra de pronto. Passou: está pronto. Não passou: volta a observar. Esse ciclo de observar, criticar, otimizar e validar é o Loop-R, o método INEMA."
+          "detalhe": "Rode de novo e confira pela regra de pronto. Passou: estÃ¡ pronto. NÃ£o passou: volta a observar. Esse ciclo de observar, criticar, otimizar e validar Ã© o Loop-R, o mÃ©todo ARCKHÉ."
         },
         {
           "icone": "marca",
@@ -102,52 +102,52 @@
               "t": "registro"
             }
           ],
-          "detalhe": "Só depois de validar você dá como concluído. E registra numa linha o que o executor fez, o que você mudou e o resultado. É esse registro que vira o seu histórico."
+          "detalhe": "SÃ³ depois de validar vocÃª dÃ¡ como concluÃ­do. E registra numa linha o que o executor fez, o que vocÃª mudou e o resultado. Ã‰ esse registro que vira o seu histÃ³rico."
         }
       ],
-      "legenda": "Quatro etapas antes de dizer pronto. Se a validação falha, o ciclo recomeça.",
+      "legenda": "Quatro etapas antes de dizer pronto. Se a validaÃ§Ã£o falha, o ciclo recomeÃ§a.",
       "rolagem": true,
       "rolagem_fim": {
         "titulo": "O Loop-R",
-        "texto": "Observar, criticar, otimizar e validar antes de dar como concluído. É o que separa ter várias sessões rodando de administrar uma força de trabalho digital.",
+        "texto": "Observar, criticar, otimizar e validar antes de dar como concluÃ­do. Ã‰ o que separa ter vÃ¡rias sessÃµes rodando de administrar uma forÃ§a de trabalho digital.",
         "curto": "Ciclo completo"
       }
     },
     {
       "tipo": "passos",
       "titulo": "A tese e a rotina",
-      "sub": "A visão do Nei Maldaner, do INEMA, e como ela vira o dia a dia da Ana.",
+      "sub": "A visÃ£o do Nei Maldaner, do ARCKHÉ, e como ela vira o dia a dia da Ana.",
       "passos": [
         {
           "titulo": "A virada",
-          "sub": "na visão do Nei",
+          "sub": "na visÃ£o do Nei",
           "texto": [
-            "Para o Nei, o trabalho com IA passou por três degraus. Primeiro, o prompt: uma pessoa e uma IA. Depois, o agente: a IA executando uma tarefa inteira.",
-            "Agora, a gestão de agentes: uma pessoa coordenando várias sessões. O próximo passo, na visão dele, é o humano nas decisões e a IA executando em equipe."
+            "Para o Nei, o trabalho com IA passou por trÃªs degraus. Primeiro, o prompt: uma pessoa e uma IA. Depois, o agente: a IA executando uma tarefa inteira.",
+            "Agora, a gestÃ£o de agentes: uma pessoa coordenando vÃ¡rias sessÃµes. O prÃ³ximo passo, na visÃ£o dele, Ã© o humano nas decisÃµes e a IA executando em equipe."
           ],
           "exemplo": {
             "rot": "Na frase dele",
-            "texto": "Administrar uma força de trabalho digital."
+            "texto": "Administrar uma forÃ§a de trabalho digital."
           }
         },
         {
-          "titulo": "Manhã",
+          "titulo": "ManhÃ£",
           "sub": "o que trava",
           "texto": [
-            "Ana abre a agent view com claude agents e digita s:blocked na caixa de filtro. Aparece só o que espera por ela: a sessão da clínica pediu uma decisão sobre a foto de um dos posts da semana.",
-            "Ela decide primeiro o que trava. O que está andando fica andando."
+            "Ana abre a agent view com claude agents e digita s:blocked na caixa de filtro. Aparece sÃ³ o que espera por ela: a sessÃ£o da clÃ­nica pediu uma decisÃ£o sobre a foto de um dos posts da semana.",
+            "Ela decide primeiro o que trava. O que estÃ¡ andando fica andando."
           ],
           "exemplo": {
             "rot": "Sem terminal",
-            "texto": "No Projects (claude.ai/code ou app Desktop), o Overview mostra um ponto na thread que espera por você."
+            "texto": "No Projects (claude.ai/code ou app Desktop), o Overview mostra um ponto na thread que espera por vocÃª."
           }
         },
         {
           "titulo": "Durante",
           "sub": "sem interromper",
           "texto": [
-            "No meio do relatório semanal da padaria, Ana tem uma dúvida rápida. Ela usa /btw: a pergunta lateral não interrompe a sessão nem entra no histórico principal.",
-            "Quando uma sessão precisa dela, o terminal avisa. Ela não fica olhando a tela."
+            "No meio do relatÃ³rio semanal da padaria, Ana tem uma dÃºvida rÃ¡pida. Ela usa /btw: a pergunta lateral nÃ£o interrompe a sessÃ£o nem entra no histÃ³rico principal.",
+            "Quando uma sessÃ£o precisa dela, o terminal avisa. Ela nÃ£o fica olhando a tela."
           ],
           "exemplo": {
             "rot": "No Desktop",
@@ -158,12 +158,12 @@
           "titulo": "Fim do dia",
           "sub": "registrar",
           "texto": [
-            "Ana roda /recap em cada sessão e passa o ciclo nas entregas do dia. O que passou na regra de pronto vai para o registro.",
-            "O que não passou fica com uma anotação do que ajustar amanhã."
+            "Ana roda /recap em cada sessÃ£o e passa o ciclo nas entregas do dia. O que passou na regra de pronto vai para o registro.",
+            "O que nÃ£o passou fica com uma anotaÃ§Ã£o do que ajustar amanhÃ£."
           ],
           "exemplo": {
             "rot": "Registro da Ana",
-            "texto": "Clínica · posts da semana · validado pela regra (cada post cita o horário de atendimento) · nenhuma mudança."
+            "texto": "ClÃ­nica Â· posts da semana Â· validado pela regra (cada post cita o horÃ¡rio de atendimento) Â· nenhuma mudanÃ§a."
           }
         }
       ]
@@ -171,38 +171,38 @@
     {
       "tipo": "passos",
       "titulo": "O que ainda falta numa plataforma completa",
-      "sub": "Gerenciar sessões não é ter uma plataforma de gestão de agentes. Estas peças o gestor monta, por enquanto, com os recursos que existem.",
+      "sub": "Gerenciar sessÃµes nÃ£o Ã© ter uma plataforma de gestÃ£o de agentes. Estas peÃ§as o gestor monta, por enquanto, com os recursos que existem.",
       "passos": [
         {
           "titulo": "Controle",
-          "sub": "permissões, auditoria",
+          "sub": "permissÃµes, auditoria",
           "texto": [
-            "Permissões: quem pode fazer o quê. Hoje você escreve nas instruções do projeto o que precisa do seu OK, confere mods com claude plugin validate e tem o claude --safe-mode para abrir sem customizações.",
-            "Auditoria: quem fez o quê, quando. Hoje é o seu registro de uma linha por entrega, mais o claude logs para ver a saída recente de uma sessão."
+            "PermissÃµes: quem pode fazer o quÃª. Hoje vocÃª escreve nas instruÃ§Ãµes do projeto o que precisa do seu OK, confere mods com claude plugin validate e tem o claude --safe-mode para abrir sem customizaÃ§Ãµes.",
+            "Auditoria: quem fez o quÃª, quando. Hoje Ã© o seu registro de uma linha por entrega, mais o claude logs para ver a saÃ­da recente de uma sessÃ£o."
           ],
           "exemplo": {
             "rot": "Falta",
-            "texto": "Um lugar único com regras por agente e histórico completo de cada ação."
+            "texto": "Um lugar Ãºnico com regras por agente e histÃ³rico completo de cada aÃ§Ã£o."
           }
         },
         {
           "titulo": "Dinheiro",
-          "sub": "custo, métricas",
+          "sub": "custo, mÃ©tricas",
           "texto": [
-            "Custo: hoje você enxuga o contexto com /skill-doctor, deixa o consumo à vista na status line e pede no Projects \"faça esta tarefa com um modelo menor\".",
-            "Métricas: claude agents --json lê o estado das sessões por script. Na versão 2.1.312 existe o /insights, que gera um relatório das suas sessões, mas ele ainda não aparece na documentação."
+            "Custo: hoje vocÃª enxuga o contexto com /skill-doctor, deixa o consumo Ã  vista na status line e pede no Projects \"faÃ§a esta tarefa com um modelo menor\".",
+            "MÃ©tricas: claude agents --json lÃª o estado das sessÃµes por script. Na versÃ£o 2.1.312 existe o /insights, que gera um relatÃ³rio das suas sessÃµes, mas ele ainda nÃ£o aparece na documentaÃ§Ã£o."
           ],
           "exemplo": {
             "rot": "Falta",
-            "texto": "Um painel com custo e resultado por agente, por cliente, por mês."
+            "texto": "Um painel com custo e resultado por agente, por cliente, por mÃªs."
           }
         },
         {
           "titulo": "Fluxo",
-          "sub": "filas, persistência",
+          "sub": "filas, persistÃªncia",
           "texto": [
-            "Filas: no Projects você pede \"no máximo duas threads ao mesmo tempo\". No agent teams, que é experimental, há uma lista de tarefas em que uma tarefa pode esperar outra.",
-            "Persistência: a memória do projeto guarda decisões. Mas a sessão local depende da máquina ligada, e o /resume não restaura teammates."
+            "Filas: no Projects vocÃª pede \"no mÃ¡ximo duas threads ao mesmo tempo\". No agent teams, que Ã© experimental, hÃ¡ uma lista de tarefas em que uma tarefa pode esperar outra.",
+            "PersistÃªncia: a memÃ³ria do projeto guarda decisÃµes. Mas a sessÃ£o local depende da mÃ¡quina ligada, e o /resume nÃ£o restaura teammates."
           ],
           "exemplo": {
             "rot": "Falta",
@@ -210,28 +210,28 @@
           }
         },
         {
-          "titulo": "Recuperação",
+          "titulo": "RecuperaÃ§Ã£o",
           "sub": "falhas",
           "texto": [
-            "Hoje o Claude avisa quando uma sessão falha, e as falhas ficam no grupo Completed da agent view. No Projects, o Desktop notifica quando uma thread erra.",
-            "Quem decide o que fazer é você: entrar na sessão, ver o resumo e pedir de novo."
+            "Hoje o Claude avisa quando uma sessÃ£o falha, e as falhas ficam no grupo Completed da agent view. No Projects, o Desktop notifica quando uma thread erra.",
+            "Quem decide o que fazer Ã© vocÃª: entrar na sessÃ£o, ver o resumo e pedir de novo."
           ],
           "exemplo": {
             "rot": "Falta",
-            "texto": "Recuperação automática com regra: tentar de novo, trocar de caminho ou chamar você."
+            "texto": "RecuperaÃ§Ã£o automÃ¡tica com regra: tentar de novo, trocar de caminho ou chamar vocÃª."
           }
         }
       ]
     },
     {
       "tipo": "codigo",
-      "titulo": "Modelo: o seu manual de gestão",
-      "sub": "Uma página. Troque o texto entre < > pelo seu.",
+      "titulo": "Modelo: o seu manual de gestÃ£o",
+      "sub": "Uma pÃ¡gina. Troque o texto entre < > pelo seu.",
       "blocos": [
         {
           "rot": "manual-gestao.txt",
           "icone": "arquivo",
-          "conteudo": "Manhã: <onde você olha o que trava, ex.: claude agents com s:blocked, ou o Overview do projeto>\nDurante: <como você tira dúvida sem interromper, ex.: /btw ou side chat>\nFim do dia: <como você fecha, ex.: /recap em cada sessão e o ciclo nas entregas>\nRegra de pronto: <o que toda entrega precisa cumprir, de um jeito que dá para conferir>\nRegistro: <onde e como você anota o que cada executor fez>\nSobe para mim: <o que nenhuma sessão decide sem o seu OK>"
+          "conteudo": "ManhÃ£: <onde vocÃª olha o que trava, ex.: claude agents com s:blocked, ou o Overview do projeto>\nDurante: <como vocÃª tira dÃºvida sem interromper, ex.: /btw ou side chat>\nFim do dia: <como vocÃª fecha, ex.: /recap em cada sessÃ£o e o ciclo nas entregas>\nRegra de pronto: <o que toda entrega precisa cumprir, de um jeito que dÃ¡ para conferir>\nRegistro: <onde e como vocÃª anota o que cada executor fez>\nSobe para mim: <o que nenhuma sessÃ£o decide sem o seu OK>"
         },
         {
           "rot": "Abrir a agent view (depois digite s:blocked na caixa)",
@@ -241,7 +241,7 @@
         {
           "rot": "Linha de registro (uma por entrega)",
           "icone": "lista",
-          "conteudo": "<data> · <cliente> · <o que o executor entregou> · <validado pela regra? sim/não> · <o que mudei>"
+          "conteudo": "<data> Â· <cliente> Â· <o que o executor entregou> Â· <validado pela regra? sim/nÃ£o> Â· <o que mudei>"
         }
       ],
       "saida": {
@@ -249,15 +249,15 @@
         "abas": [
           {
             "rot": "Manual da Ana",
-            "html": "<ul><li><b>Manhã:</b> claude agents, filtro s:blocked; decido primeiro o que trava.</li><li><b>Durante:</b> dúvida rápida com /btw; espero o aviso do terminal.</li><li><b>Fim do dia:</b> /recap em cada sessão e o ciclo nas entregas do dia.</li><li><b>Regra de pronto:</b> cada post da clínica cita o horário de atendimento, e a clínica aprova sem correção.</li><li><b>Registro:</b> uma linha por entrega no arquivo registro.txt.</li><li><b>Sobe para mim:</b> preço na planilha da loja, promessa de prazo e qualquer texto de saúde nos posts da clínica.</li></ul>"
+            "html": "<ul><li><b>ManhÃ£:</b> claude agents, filtro s:blocked; decido primeiro o que trava.</li><li><b>Durante:</b> dÃºvida rÃ¡pida com /btw; espero o aviso do terminal.</li><li><b>Fim do dia:</b> /recap em cada sessÃ£o e o ciclo nas entregas do dia.</li><li><b>Regra de pronto:</b> cada post da clÃ­nica cita o horÃ¡rio de atendimento, e a clÃ­nica aprova sem correÃ§Ã£o.</li><li><b>Registro:</b> uma linha por entrega no arquivo registro.txt.</li><li><b>Sobe para mim:</b> preÃ§o na planilha da loja, promessa de prazo e qualquer texto de saÃºde nos posts da clÃ­nica.</li></ul>"
           },
           {
             "rot": "Filtro na agent view",
-            "html": "<pre>s:blocked\n\nNeeds input\n  clinica-posts     precisa de você: escolher a foto do post\n\n(1 sessão esperando por você)</pre>"
+            "html": "<pre>s:blocked\n\nNeeds input\n  clinica-posts     precisa de vocÃª: escolher a foto do post\n\n(1 sessÃ£o esperando por vocÃª)</pre>"
           },
           {
             "rot": "Erros comuns",
-            "html": "<ul><li><b>Regra de pronto vaga</b> (\"ficar bom\"): ninguém consegue conferir.</li><li><b>Sem registro</b>: em uma semana você não sabe quem fez o quê.</li><li><b>Tudo sobe para você</b>: vira gargalo; escolha poucas coisas que só você decide.</li></ul>"
+            "html": "<ul><li><b>Regra de pronto vaga</b> (\"ficar bom\"): ninguÃ©m consegue conferir.</li><li><b>Sem registro</b>: em uma semana vocÃª nÃ£o sabe quem fez o quÃª.</li><li><b>Tudo sobe para vocÃª</b>: vira gargalo; escolha poucas coisas que sÃ³ vocÃª decide.</li></ul>"
           }
         ]
       }
@@ -265,15 +265,15 @@
     {
       "tipo": "conferidor",
       "titulo": "Confira o seu manual",
-      "sub": "Cole o seu manual (ou carregue o .txt). A página confere os seis campos, pede a rotina com as ferramentas certas e, na Regra de pronto, um verbo de teste: algo que alguém faz para conferir (\"cita a data\", \"o cliente aprova sem correção\", \"o link abre\", \"o script roda\"). Número sozinho não basta: \"ficar bom em 2 dias\" é recusado.",
+      "sub": "Cole o seu manual (ou carregue o .txt). A pÃ¡gina confere os seis campos, pede a rotina com as ferramentas certas e, na Regra de pronto, um verbo de teste: algo que alguÃ©m faz para conferir (\"cita a data\", \"o cliente aprova sem correÃ§Ã£o\", \"o link abre\", \"o script roda\"). NÃºmero sozinho nÃ£o basta: \"ficar bom em 2 dias\" Ã© recusado.",
       "arquivo": "manual-gestao.txt",
-      "rot": "Cole aqui o seu manual de gestão (um campo por linha):",
-      "modelo": "Manhã: ...\nDurante: ...\nFim do dia: ...\nRegra de pronto: ...\nRegistro: ...\nSobe para mim: ...",
+      "rot": "Cole aqui o seu manual de gestÃ£o (um campo por linha):",
+      "modelo": "ManhÃ£: ...\nDurante: ...\nFim do dia: ...\nRegra de pronto: ...\nRegistro: ...\nSobe para mim: ...",
       "regras": [
         {
           "tipo": "campos",
           "campos": [
-            "Manhã",
+            "ManhÃ£",
             "Durante",
             "Fim do dia",
             "Regra de pronto",
@@ -286,16 +286,16 @@
           "tipo": "termos",
           "grupos": [
             {
-              "rot": "na Manhã onde você vê o que trava (s:blocked, agent view, Overview ou, no Desktop, a pergunta à sessão gestora)",
-              "campo": "Manhã",
+              "rot": "na ManhÃ£ onde vocÃª vÃª o que trava (s:blocked, agent view, Overview ou, no Desktop, a pergunta Ã  sessÃ£o gestora)",
+              "campo": "ManhÃ£",
               "termos": [
                 "s:blocked",
                 "claude agents",
                 "agent view / vista de agentes",
-                "overview / visão geral / visión general",
-                "sessão gestora / managing session / manager session / sesión gestora",
-                "qual sessão / quais sessões / which session / which sessions / qué sesión / qué sesiones",
-                "esperando por mim / waiting for me / esperando por mí"
+                "overview / visÃ£o geral / visiÃ³n general",
+                "sessÃ£o gestora / managing session / manager session / sesiÃ³n gestora",
+                "qual sessÃ£o / quais sessÃµes / which session / which sessions / quÃ© sesiÃ³n / quÃ© sesiones",
+                "esperando por mim / waiting for me / esperando por mÃ­"
               ]
             },
             {
@@ -307,13 +307,13 @@
               ]
             },
             {
-              "rot": "no Fim do dia o /recap (ou o status das threads ou de cada sessão)",
+              "rot": "no Fim do dia o /recap (ou o status das threads ou de cada sessÃ£o)",
               "campo": "Fim do dia",
               "termos": [
                 "/recap",
                 "status das threads / status de todas as threads / status of all threads / estado de los hilos",
-                "status de cada sessão / status of each session / estado de cada sesión",
-                "resumo de cada sessão / summary of each session / resumen de cada sesión"
+                "status de cada sessÃ£o / status of each session / estado de cada sesiÃ³n",
+                "resumo de cada sessÃ£o / summary of each session / resumen de cada sesiÃ³n"
               ]
             },
             {
@@ -329,7 +329,7 @@
                 "passa / passam / passes / pasa / pasan",
                 "teste / testes / test / tests / prueba / pruebas",
                 "igual a / equal to / igual que",
-                "tem / têm / has / have / tiene / tienen",
+                "tem / tÃªm / has / have / tiene / tienen",
                 "traz / trazem / brings / bring / trae / traen",
                 "mostra / mostram / shows / show / muestra / muestran",
                 "bate / batem / matches / match / coincide / coinciden"
@@ -340,7 +340,7 @@
               "campo": "Regra de pronto",
               "proibe": true,
               "termos": [
-                "ficar bom / ficar boa / estar bom / estar boa / looks good / quede bien / esté bien",
+                "ficar bom / ficar boa / estar bom / estar boa / looks good / quede bien / estÃ© bien",
                 "ficar bonito / ficar bonita / look nice / quede bonito",
                 "quando der / when possible / cuando pueda",
                 "do meu jeito / my way / a mi manera",
@@ -352,56 +352,56 @@
           ]
         }
       ],
-      "ok": "OK: manual de gestão com os {n} campos preenchidos",
-      "exemplo": "Manhã: claude agents com o filtro s:blocked; decido primeiro o que trava.\nDurante: dúvida rápida com /btw, sem interromper a sessão.\nFim do dia: /recap em cada sessão e o ciclo nas entregas do dia.\nRegra de pronto: cada post da clínica cita o horário de atendimento, e a clínica aprova sem correção.\nRegistro: uma linha por entrega no arquivo registro.txt, com data e cliente.\nSobe para mim: preço na planilha da loja, promessa de prazo e qualquer texto de saúde nos posts da clínica.",
-      "exemplo_errado": "Manhã: olho as sessões quando der.\nDurante: pergunto quando precisar.\nFim do dia: vejo como ficou.\nRegra de pronto: ficar bom e profissional.\nRegistro: na cabeça.\nSobe para mim: tudo."
+      "ok": "OK: manual de gestÃ£o com os {n} campos preenchidos",
+      "exemplo": "ManhÃ£: claude agents com o filtro s:blocked; decido primeiro o que trava.\nDurante: dÃºvida rÃ¡pida com /btw, sem interromper a sessÃ£o.\nFim do dia: /recap em cada sessÃ£o e o ciclo nas entregas do dia.\nRegra de pronto: cada post da clÃ­nica cita o horÃ¡rio de atendimento, e a clÃ­nica aprova sem correÃ§Ã£o.\nRegistro: uma linha por entrega no arquivo registro.txt, com data e cliente.\nSobe para mim: preÃ§o na planilha da loja, promessa de prazo e qualquer texto de saÃºde nos posts da clÃ­nica.",
+      "exemplo_errado": "ManhÃ£: olho as sessÃµes quando der.\nDurante: pergunto quando precisar.\nFim do dia: vejo como ficou.\nRegra de pronto: ficar bom e profissional.\nRegistro: na cabeÃ§a.\nSobe para mim: tudo."
     },
     {
       "tipo": "pratica",
-      "titulo": "Prática: o seu manual de gestão",
-      "sub": "Use os trabalhos que você listou na aula 1.",
+      "titulo": "PrÃ¡tica: o seu manual de gestÃ£o",
+      "sub": "Use os trabalhos que vocÃª listou na aula 1.",
       "exercicios": [
         {
           "id": "e1",
-          "titulo": "E1 · O manual",
+          "titulo": "E1 Â· O manual",
           "min": "20 min",
-          "texto": "Preencha o manual-gestao.txt com os seis campos e cole no conferidor acima. Quem usa o app Desktop (aba Code) pode escrever a Manhã e o Fim do dia perguntando a uma sessão gestora, em linguagem simples, \"qual sessão está esperando por mim?\" e \"status de cada sessão\": o Desktop lê as outras sessões locais. No Projects, use o Overview e o status das threads.",
-          "pronto": "o conferidor responde \"OK: manual de gestão com os 6 campos preenchidos\"."
+          "texto": "Preencha o manual-gestao.txt com os seis campos e cole no conferidor acima. Quem usa o app Desktop (aba Code) pode escrever a ManhÃ£ e o Fim do dia perguntando a uma sessÃ£o gestora, em linguagem simples, \"qual sessÃ£o estÃ¡ esperando por mim?\" e \"status de cada sessÃ£o\": o Desktop lÃª as outras sessÃµes locais. No Projects, use o Overview e o status das threads.",
+          "pronto": "o conferidor responde \"OK: manual de gestÃ£o com os 6 campos preenchidos\"."
         },
         {
           "id": "e2",
-          "titulo": "E2 · Um dia com o manual",
+          "titulo": "E2 Â· Um dia com o manual",
           "min": "10 min por dia",
           "dias": "1 dia",
           "texto": "Siga o manual por um dia de trabalho. No fim, escreva uma linha de registro para cada entrega, no modelo acima.",
-          "pronto": "existe pelo menos uma linha de registro com data, cliente, entrega, se passou na regra de pronto e o que você mudou."
+          "pronto": "existe pelo menos uma linha de registro com data, cliente, entrega, se passou na regra de pronto e o que vocÃª mudou."
         },
         {
           "id": "e3",
-          "titulo": "E3 · Uma volta no ciclo",
+          "titulo": "E3 Â· Uma volta no ciclo",
           "min": "15 min",
-          "texto": "Pegue uma entrega que não passou na regra de pronto. Anote o que faltou (criticar), mude uma coisa só nas instruções (otimizar) e peça de novo (validar). Se nenhuma entrega falhou, rode o ciclo numa que passou e use a crítica para apertar a regra de pronto.",
-          "pronto": "você tem, por escrito, o que faltou (ou o que a regra deixava passar), a única mudança feita e se a nova entrega passou na regra."
+          "texto": "Pegue uma entrega que nÃ£o passou na regra de pronto. Anote o que faltou (criticar), mude uma coisa sÃ³ nas instruÃ§Ãµes (otimizar) e peÃ§a de novo (validar). Se nenhuma entrega falhou, rode o ciclo numa que passou e use a crÃ­tica para apertar a regra de pronto.",
+          "pronto": "vocÃª tem, por escrito, o que faltou (ou o que a regra deixava passar), a Ãºnica mudanÃ§a feita e se a nova entrega passou na regra."
         },
         {
           "id": "e4",
-          "titulo": "E4 · A sua lista de lacunas",
+          "titulo": "E4 Â· A sua lista de lacunas",
           "min": "10 min",
-          "texto": "Das sete peças que faltam (permissões, custo, filas, persistência, métricas, auditoria, recuperação de falhas), escolha as duas que mais doem no seu trabalho.",
-          "pronto": "você escreveu as duas peças e, para cada uma, o que vai fazer à mão por enquanto."
+          "texto": "Das sete peÃ§as que faltam (permissÃµes, custo, filas, persistÃªncia, mÃ©tricas, auditoria, recuperaÃ§Ã£o de falhas), escolha as duas que mais doem no seu trabalho.",
+          "pronto": "vocÃª escreveu as duas peÃ§as e, para cada uma, o que vai fazer Ã  mÃ£o por enquanto."
         }
       ]
     },
     {
       "tipo": "video",
-      "titulo": "A aula 8 em vídeo",
+      "titulo": "A aula 8 em vÃ­deo",
       "sub": "O mecanismo da aula explicado em cerca de dois minutos e meio.",
       "chave": "cga-a8"
     },
     {
       "tipo": "quiz",
       "titulo": "Teste o que aprendeu",
-      "sub": "A explicação aparece depois da sua resposta.",
+      "sub": "A explicaÃ§Ã£o aparece depois da sua resposta.",
       "perguntas": [
         {
           "p": "Qual a ordem do ciclo antes de dar uma entrega como pronta?",
@@ -412,88 +412,88 @@
             "Observar, criticar, otimizar e validar, nessa ordem."
           ],
           "certa": 3,
-          "explica": "Primeiro você vê o que aconteceu, depois compara com a regra, ajusta a causa e confere de novo. Começar otimizando é mexer sem saber o que deu errado.",
+          "explica": "Primeiro vocÃª vÃª o que aconteceu, depois compara com a regra, ajusta a causa e confere de novo. ComeÃ§ar otimizando Ã© mexer sem saber o que deu errado.",
           "ref": "diagrama"
         },
         {
-          "p": "De manhã, como Ana vê só as sessões que esperam por ela?",
+          "p": "De manhÃ£, como Ana vÃª sÃ³ as sessÃµes que esperam por ela?",
           "opcoes": [
-            "Abre cada sessão, uma por uma, e lê o histórico.",
+            "Abre cada sessÃ£o, uma por uma, e lÃª o histÃ³rico.",
             "Na agent view, digita s:blocked na caixa de filtro.",
-            "Roda /skill-doctor em todas as sessões abertas.",
-            "Pede ao /btw a lista das sessões em andamento."
+            "Roda /skill-doctor em todas as sessÃµes abertas.",
+            "Pede ao /btw a lista das sessÃµes em andamento."
           ],
           "certa": 1,
-          "explica": "O filtro s:blocked mostra tudo que espera por você. Abrir uma por uma é o que a agent view veio evitar.",
+          "explica": "O filtro s:blocked mostra tudo que espera por vocÃª. Abrir uma por uma Ã© o que a agent view veio evitar.",
           "ref": "passos"
         },
         {
-          "p": "Qual destas é uma regra de pronto que dá para conferir?",
+          "p": "Qual destas Ã© uma regra de pronto que dÃ¡ para conferir?",
           "opcoes": [
-            "Cada post cita o horário, e a clínica aprova.",
+            "Cada post cita o horÃ¡rio, e a clÃ­nica aprova.",
             "O post precisa ficar bonito e bem profissional.",
             "O post sai quando der, do jeito que achar melhor.",
-            "O post fica pronto quando a sessão disser que acabou."
+            "O post fica pronto quando a sessÃ£o disser que acabou."
           ],
           "certa": 0,
-          "explica": "Dá para olhar a entrega e dizer sim ou não. \"Bonito\" e \"quando der\" não têm teste, e a sessão dizer que acabou não é conferência.",
+          "explica": "DÃ¡ para olhar a entrega e dizer sim ou nÃ£o. \"Bonito\" e \"quando der\" nÃ£o tÃªm teste, e a sessÃ£o dizer que acabou nÃ£o Ã© conferÃªncia.",
           "ref": "conferidor"
         },
         {
-          "p": "Gerenciar várias sessões é o mesmo que ter uma plataforma completa de gestão de agentes?",
+          "p": "Gerenciar vÃ¡rias sessÃµes Ã© o mesmo que ter uma plataforma completa de gestÃ£o de agentes?",
           "opcoes": [
-            "Sim: a agent view já cobre permissões, custo e auditoria.",
+            "Sim: a agent view jÃ¡ cobre permissÃµes, custo e auditoria.",
             "Sim, desde que o agent teams esteja ligado no settings.",
-            "Não: faltam peças como permissões, filas e auditoria.",
-            "Não, porque a agent view só funciona dentro da nuvem."
+            "NÃ£o: faltam peÃ§as como permissÃµes, filas e auditoria.",
+            "NÃ£o, porque a agent view sÃ³ funciona dentro da nuvem."
           ],
           "certa": 2,
-          "explica": "Faltam permissões, custo, filas, persistência, métricas, auditoria e recuperação de falhas. Hoje o gestor monta essas peças à mão com os recursos que existem.",
+          "explica": "Faltam permissÃµes, custo, filas, persistÃªncia, mÃ©tricas, auditoria e recuperaÃ§Ã£o de falhas. Hoje o gestor monta essas peÃ§as Ã  mÃ£o com os recursos que existem.",
           "ref": "resumo"
         },
         {
           "p": "Por que registrar uma linha por entrega?",
           "opcoes": [
-            "Porque o Claude apaga as sessões no fim de cada dia.",
-            "Para saber, depois, quem fez o quê e o que você mudou.",
-            "Porque a agent view só mostra sessões que têm registro.",
-            "Para o /recap conseguir resumir a sessão em uma linha."
+            "Porque o Claude apaga as sessÃµes no fim de cada dia.",
+            "Para saber, depois, quem fez o quÃª e o que vocÃª mudou.",
+            "Porque a agent view sÃ³ mostra sessÃµes que tÃªm registro.",
+            "Para o /recap conseguir resumir a sessÃ£o em uma linha."
           ],
           "certa": 1,
-          "explica": "É a sua auditoria enquanto a plataforma não tem uma. Sem registro, em uma semana você não sabe o que funcionou.",
+          "explica": "Ã‰ a sua auditoria enquanto a plataforma nÃ£o tem uma. Sem registro, em uma semana vocÃª nÃ£o sabe o que funcionou.",
           "ref": "codigo"
         }
       ]
     },
     {
       "tipo": "resumo",
-      "titulo": "O curso em três frases",
+      "titulo": "O curso em trÃªs frases",
       "itens": [
         {
-          "t": "Gestão de agentes",
-          "texto": "Você deixa de usar uma IA e passa a administrar uma força de trabalho digital: você decide, as sessões executam."
+          "t": "GestÃ£o de agentes",
+          "texto": "VocÃª deixa de usar uma IA e passa a administrar uma forÃ§a de trabalho digital: vocÃª decide, as sessÃµes executam."
         },
         {
           "t": "Ciclo antes do pronto",
-          "texto": "Observar, criticar, otimizar e validar; uma regra de pronto que dá para conferir e um registro por entrega."
+          "texto": "Observar, criticar, otimizar e validar; uma regra de pronto que dÃ¡ para conferir e um registro por entrega."
         },
         {
           "t": "Limites honestos",
-          "texto": "Permissões, custo, filas, persistência, métricas, auditoria e recuperação ainda são montados por você."
+          "texto": "PermissÃµes, custo, filas, persistÃªncia, mÃ©tricas, auditoria e recuperaÃ§Ã£o ainda sÃ£o montados por vocÃª."
         }
       ]
     },
     {
       "tipo": "links",
-      "titulo": "Para ir além",
+      "titulo": "Para ir alÃ©m",
       "links": [
         {
-          "t": "Agent view: todas as sessões numa tela (documentação oficial, em inglês)",
+          "t": "Agent view: todas as sessÃµes numa tela (documentaÃ§Ã£o oficial, em inglÃªs)",
           "href": "https://code.claude.com/docs/en/agent-view",
           "icone": "lista"
         },
         {
-          "t": "Projects do Claude Code (documentação oficial, em inglês)",
+          "t": "Projects do Claude Code (documentaÃ§Ã£o oficial, em inglÃªs)",
           "href": "https://code.claude.com/docs/en/claude-projects",
           "icone": "nuvem"
         }
