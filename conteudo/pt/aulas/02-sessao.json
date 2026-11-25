@@ -1,12 +1,12 @@
 {
   "slug": "sessao",
   "num": 2,
-  "menu": "Sessão",
-  "titulo": "Uma sessão sem perder o fio: pergunta lateral, resumo, cor e lado a lado",
-  "titulo_curto": "Uma sessão sem perder o fio",
+  "menu": "Sessêo",
+  "titulo": "Uma sessêo sem perder o fio: pergunta lateral, resumo, cor e lado a lado",
+  "titulo_curto": "Uma sessêo sem perder o fio",
   "minutos": 14,
-  "lead": "Antes de coordenar várias sessões, você precisa trabalhar bem dentro de uma. O problema comum é perder o fio: você interrompe a tarefa com uma dúvida, a conversa desvia e, uma hora depois, ninguém lembra onde parou. Quatro recursos pequenos resolvem isso: uma pergunta de lado, um resumo de uma linha, uma cor para reconhecer a sessão e duas sessões lado a lado.",
-  "objetivo": "usar /btw, /recap, /color e o split view para trabalhar numa sessão sem perder o fio.",
+  "lead": "Antes de coordenar várias sessões, você precisa trabalhar bem dentro de uma. O problema comum é perder o fio: você interrompe a tarefa com uma dúvida, a conversa desvia e, uma hora depois, ninguém lembra onde parou. Quatro recursos pequenos resolvem isso: uma pergunta de lado, um resumo de uma linha, uma cor para reconhecer a sessêo e duas sessões lado a lado.",
+  "objetivo": "usar /btw, /recap, /color e o split view para trabalhar numa sessêo sem perder o fio.",
   "competencias": [
     "perguntar-sem-interromper",
     "retomar-uma-sessao",
@@ -23,7 +23,7 @@
     },
     {
       "icone": "marca",
-      "t": "Reconhecer a sessão pela cor com /color"
+      "t": "Reconhecer a sessêo pela cor com /color"
     },
     {
       "icone": "camadas",
@@ -34,7 +34,7 @@
   "secoes": [
     {
       "tipo": "diagrama",
-      "titulo": "A sessão por dentro",
+      "titulo": "A sessêo por dentro",
       "sub": "Toque ou clique em cada peça.",
       "nos": [
         {
@@ -58,13 +58,13 @@
           "sub": "pergunta lateral",
           "itens": [
             {
-              "t": "não interrompe"
+              "t": "nêo interrompe"
             },
             {
-              "t": "não fica no histórico"
+              "t": "nêo fica no histórico"
             }
           ],
-          "detalhe": "Uma pergunta rápida feita de lado. O Claude responde só com o que já está na sessão, sem usar ferramentas (abrir arquivos, pesquisar, rodar comandos), e a pergunta não entra no histórico principal. A tarefa segue como estava."
+          "detalhe": "Uma pergunta rápida feita de lado. O Claude responde só com o que já está na sessêo, sem usar ferramentas (abrir arquivos, pesquisar, rodar comandos), e a pergunta nêo entra no histórico principal. A tarefa segue como estava."
         },
         {
           "icone": "relogio",
@@ -78,7 +78,7 @@
               "t": "na hora"
             }
           ],
-          "detalhe": "Um resumo de uma linha do que a sessão fez até agora. Serve para voltar depois de uma pausa sem reler tudo. O Claude também faz um resumo sozinho depois de alguns turnos (cada turno é uma mensagem sua e a resposta dele)."
+          "detalhe": "Um resumo de uma linha do que a sessêo fez até agora. Serve para voltar depois de uma pausa sem reler tudo. O Claude também faz um resumo sozinho depois de alguns turnos (cada turno é uma mensagem sua e a resposta dele)."
         },
         {
           "icone": "marca",
@@ -89,7 +89,7 @@
               "t": "reconhecer de longe"
             }
           ],
-          "detalhe": "Você digita /color e escolhe a cor que aparecer. O nome da sessão fica colorido, e a cor aparece também na agent view, a tela que lista todas as sessões (aula 3). Com três clientes, três cores: você sabe de quem é a sessão sem ler."
+          "detalhe": "Você digita /color e escolhe a cor que aparecer. O nome da sessêo fica colorido, e a cor aparece também na agent view, a tela que lista todas as sessões (aula 3). Com três clientes, três cores: você sabe de quem é a sessêo sem ler."
         },
         {
           "icone": "camadas",
@@ -106,55 +106,55 @@
           "detalhe": "Split view é tela dividida: no app Desktop do Claude, na aba Code (a parte do app onde roda o Claude Code), duas sessões abertas lado a lado na mesma janela. Você acompanha uma enquanto responde a outra."
         }
       ],
-      "legenda": "Uma conversa principal que segue limpa, com três atalhos em volta e uma segunda sessão ao lado."
+      "legenda": "Uma conversa principal que segue limpa, com três atalhos em volta e uma segunda sessêo ao lado."
     },
     {
       "tipo": "passos",
       "titulo": "Os quatro recursos, no dia da Ana",
-      "sub": "A Ana, da agência com três clientes, está com a sessão do relatório da padaria aberta.",
+      "sub": "A Ana, da agência com três clientes, está com a sessêo do relatório da padaria aberta.",
       "passos": [
         {
           "titulo": "/btw",
           "sub": "pergunta lateral",
           "texto": [
             "No meio do relatório, a Ana quer saber qual dia da semana vendeu mais, só para ela. Se perguntar na conversa, a pergunta entra no histórico e pode desviar a tarefa.",
-            "Com <code>/btw</code> seguido da pergunta, a resposta aparece à parte e some do caminho. Nessa hora o Claude não usa ferramentas, ou seja, não abre arquivo, não pesquisa e não roda comando: só responde com o que já leu na sessão."
+            "Com <code>/btw</code> seguido da pergunta, a resposta aparece à parte e some do caminho. Nessa hora o Claude nêo usa ferramentas, ou seja, nêo abre arquivo, nêo pesquisa e nêo roda comando: só responde com o que já leu na sessêo."
           ],
           "exemplo": {
             "rot": "Quando usar",
-            "texto": "Dúvida rápida sobre o que a sessão já sabe. Se a pergunta precisa abrir um arquivo novo ou pesquisar, faça na conversa normal ou em outra sessão."
+            "texto": "Dúvida rápida sobre o que a sessêo já sabe. Se a pergunta precisa abrir um arquivo novo ou pesquisar, faça na conversa normal ou em outra sessêo."
           }
         },
         {
           "titulo": "/recap",
           "sub": "onde parei?",
           "texto": [
-            "A Ana sai para uma reunião. Na volta, em vez de rolar a conversa inteira, ela digita <code>/recap</code> e recebe uma linha com o que foi feito.",
+            "A Ana sai para uma reuniêo. Na volta, em vez de rolar a conversa inteira, ela digita <code>/recap</code> e recebe uma linha com o que foi feito.",
             "O Claude também faz esse resumo sozinho depois de alguns turnos, isto é, algumas rodadas de mensagem e resposta. O comando serve para pedir na hora em que você precisa."
           ],
           "exemplo": {
             "rot": "Hábito de gestor",
-            "texto": "Rodar /recap antes de fechar o dia e antes de retomar. Uma linha por sessão já diz o que está pela metade."
+            "texto": "Rodar /recap antes de fechar o dia e antes de retomar. Uma linha por sessêo já diz o que está pela metade."
           }
         },
         {
           "titulo": "/color",
-          "sub": "cor da sessão",
+          "sub": "cor da sessêo",
           "texto": [
-            "A Ana combina uma cor por cliente: padaria de uma cor, clínica de outra, loja de outra. Em cada sessão ela digita <code>/color</code> e escolhe a cor que aparecer na lista. O nome da sessão passa a aparecer colorido.",
+            "A Ana combina uma cor por cliente: padaria de uma cor, clínica de outra, loja de outra. Em cada sessêo ela digita <code>/color</code> e escolhe a cor que aparecer na lista. O nome da sessêo passa a aparecer colorido.",
             "Quando as sessões forem para a agent view (aula 3), a cor aparece na lista, e ela reconhece cada cliente de relance."
           ],
           "exemplo": {
             "rot": "E o nome?",
-            "texto": "O nome da sessão vem na aula 3, com a opção --name do segundo plano (a sessão que trabalha sem ocupar a sua tela). Cor e nome juntos evitam abrir a sessão errada."
+            "texto": "O nome da sessêo vem na aula 3, com a opçêo --name do segundo plano (a sessêo que trabalha sem ocupar a sua tela). Cor e nome juntos evitam abrir a sessêo errada."
           }
         },
         {
           "titulo": "Split view",
           "sub": "app Desktop",
           "texto": [
-            "No app Desktop, aba Code, a Ana abre uma sessão nova com Ctrl+N (Cmd+N no Mac) e troca entre elas com Ctrl+Tab.",
-            "Para ver duas lado a lado, ela segura Alt (Option no Mac) e clica na segunda sessão na barra lateral. Também dá pelo botão direito: Open in → Split view. Para tirar do split: Ctrl+Alt+W (Cmd+Ctrl+W no Mac)."
+            "No app Desktop, aba Code, a Ana abre uma sessêo nova com Ctrl+N (Cmd+N no Mac) e troca entre elas com Ctrl+Tab.",
+            "Para ver duas lado a lado, ela segura Alt (Option no Mac) e clica na segunda sessêo na barra lateral. Também dá pelo botêo direito: Open in → Split view. Para tirar do split: Ctrl+Alt+W (Cmd+Ctrl+W no Mac)."
           ],
           "exemplo": {
             "rot": "Pergunta lateral no app",
@@ -166,7 +166,7 @@
     {
       "tipo": "codigo",
       "titulo": "Para copiar: os comandos da aula",
-      "sub": "Os comandos com barra você digita numa sessão do Claude Code, na caixa onde escreve os pedidos (o prompt). Troque o texto entre < > pelo seu.",
+      "sub": "Os comandos com barra você digita numa sessêo do Claude Code, na caixa onde escreve os pedidos (o prompt). Troque o texto entre < > pelo seu.",
       "blocos": [
         {
           "rot": "Abrir o Claude Code numa pasta (terminal)",
@@ -176,7 +176,7 @@
         {
           "rot": "Pergunta lateral",
           "icone": "chat",
-          "conteudo": "/btw <sua pergunta rápida sobre o que a sessão já leu>"
+          "conteudo": "/btw <sua pergunta rápida sobre o que a sessêo já leu>"
         },
         {
           "rot": "Exemplo da Ana",
@@ -189,7 +189,7 @@
           "conteudo": "/recap"
         },
         {
-          "rot": "Cor da sessão (escolha a cor que aparecer)",
+          "rot": "Cor da sessêo (escolha a cor que aparecer)",
           "icone": "marca",
           "conteudo": "/color"
         }
@@ -199,7 +199,7 @@
         "abas": [
           {
             "rot": "Resposta do /btw",
-            "html": "<pre>/btw qual dia da semana teve mais vendas no arquivo que você já leu?\n\n  Sábado, com 312 vendas, pela planilha vendas-semana.csv\n  que li no começo da sessão.\n\n  (pergunta lateral: não entra no histórico)</pre><p>A tarefa do relatório continua de onde estava. Se você rolar a conversa, a pergunta não aparece nela.</p>"
+            "html": "<pre>/btw qual dia da semana teve mais vendas no arquivo que você já leu?\n\n  Sábado, com 312 vendas, pela planilha vendas-semana.csv\n  que li no começo da sessêo.\n\n  (pergunta lateral: nêo entra no histórico)</pre><p>A tarefa do relatório continua de onde estava. Se você rolar a conversa, a pergunta nêo aparece nela.</p>"
           },
           {
             "rot": "Resposta do /recap",
@@ -207,29 +207,29 @@
           },
           {
             "rot": "Erros comuns",
-            "html": "<ul><li><b>/btw para tarefa nova</b> (\"/btw pesquise os preços do concorrente\"): ele não usa ferramentas nessa hora; abra uma sessão para isso.</li><li><b>Dúvida que muda a tarefa na lateral</b>: se a resposta muda o rumo, pergunte na conversa principal, para ela ficar no histórico.</li><li><b>Retomar sem /recap</b>: reler a conversa inteira gasta o seu tempo.</li></ul>"
+            "html": "<ul><li><b>/btw para tarefa nova</b> (\"/btw pesquise os preços do concorrente\"): ele nêo usa ferramentas nessa hora; abra uma sessêo para isso.</li><li><b>Dúvida que muda a tarefa na lateral</b>: se a resposta muda o rumo, pergunte na conversa principal, para ela ficar no histórico.</li><li><b>Retomar sem /recap</b>: reler a conversa inteira gasta o seu tempo.</li></ul>"
           }
         ]
       }
     },
     {
       "tipo": "pratica",
-      "titulo": "Prática: uma sessão sem perder o fio",
+      "titulo": "Prática: uma sessêo sem perder o fio",
       "sub": "Escolha o caminho que você tem: terminal (Claude Code) ou app Desktop.",
       "exercicios": [
         {
           "id": "e1",
           "titulo": "E1 · /btw durante uma tarefa (terminal)",
           "min": "10 min",
-          "texto": "Abra o Claude Code numa pasta com um arquivo de texto seu, seguindo o bloco \"Abrir o Claude Code numa pasta\" acima. Peça uma tarefa leve de leitura (por exemplo, resumir o arquivo). Depois faça uma pergunta com /btw sobre o que ele já leu. Sem terminal: no app Desktop, aba Code, abra uma sessão na pasta, peça o mesmo resumo e faça a pergunta no side chat (Ctrl+; ou Cmd+; no Mac).",
-          "pronto": "a resposta da pergunta lateral apareceu à parte e, ao rolar a conversa principal, a pergunta não está nela."
+          "texto": "Abra o Claude Code numa pasta com um arquivo de texto seu, seguindo o bloco \"Abrir o Claude Code numa pasta\" acima. Peça uma tarefa leve de leitura (por exemplo, resumir o arquivo). Depois faça uma pergunta com /btw sobre o que ele já leu. Sem terminal: no app Desktop, aba Code, abra uma sessêo na pasta, peça o mesmo resumo e faça a pergunta no side chat (Ctrl+; ou Cmd+; no Mac).",
+          "pronto": "a resposta da pergunta lateral apareceu à parte e, ao rolar a conversa principal, a pergunta nêo está nela."
         },
         {
           "id": "e2",
           "titulo": "E2 · /recap e /color (terminal ou app Desktop)",
           "min": "5 min",
-          "texto": "Na mesma sessão, digite /recap e anote a linha do resumo num papel ou bloco de notas. Depois digite /color e escolha a cor que aparecer. No app Desktop, digite os dois na caixa de mensagem da aba Code; se o comando não aparecer no Desktop, faça este exercício no terminal.",
-          "pronto": "você tem anotada uma linha de resumo e o nome da sessão aparece colorido. Se ficou só no Desktop sem os comandos: você pediu ao Claude “renomeie esta sessão para Padaria” e o novo nome aparece na barra lateral."
+          "texto": "Na mesma sessêo, digite /recap e anote a linha do resumo num papel ou bloco de notas. Depois digite /color e escolha a cor que aparecer. No app Desktop, digite os dois na caixa de mensagem da aba Code; se o comando nêo aparecer no Desktop, faça este exercício no terminal.",
+          "pronto": "você tem anotada uma linha de resumo e o nome da sessêo aparece colorido. Se ficou só no Desktop sem os comandos: você pediu ao Claude “renomeie esta sessêo para Padaria” e o novo nome aparece na barra lateral."
         },
         {
           "id": "e3",
@@ -249,7 +249,7 @@
     {
       "tipo": "quiz",
       "titulo": "Teste o que aprendeu",
-      "sub": "A explicação aparece depois da sua resposta.",
+      "sub": "A explicaçêo aparece depois da sua resposta.",
       "perguntas": [
         {
           "p": "No meio de uma tarefa, você quer tirar uma dúvida rápida sem desviar a conversa. O que usar?",
@@ -260,7 +260,7 @@
             "/color, para separar a pergunta das outras mensagens."
           ],
           "certa": 1,
-          "explica": "O /btw responde à parte e não entra no histórico principal. Uma mensagem normal entra no histórico e pode mudar o rumo da tarefa.",
+          "explica": "O /btw responde à parte e nêo entra no histórico principal. Uma mensagem normal entra no histórico e pode mudar o rumo da tarefa.",
           "cert": true,
           "ref": "diagrama"
         },
@@ -268,20 +268,20 @@
           "p": "Você pergunta com /btw: \"pesquise na internet o preço do concorrente\". O que acontece?",
           "opcoes": [
             "Ele pesquisa e guarda o resultado no histórico.",
-            "Ele abre uma sessão nova sozinho para pesquisar.",
+            "Ele abre uma sessêo nova sozinho para pesquisar.",
             "Ele pesquisa em segundo plano e avisa quando terminar.",
-            "Ele não pesquisa: o /btw responde só com o que a sessão já tem, sem ferramentas."
+            "Ele nêo pesquisa: o /btw responde só com o que a sessêo já tem, sem ferramentas."
           ],
           "certa": 3,
-          "explica": "O /btw não usa ferramentas. Para pesquisar ou abrir arquivos novos, use a conversa principal ou outra sessão. O erro comum é tratar o /btw como uma sessão extra.",
+          "explica": "O /btw nêo usa ferramentas. Para pesquisar ou abrir arquivos novos, use a conversa principal ou outra sessêo. O erro comum é tratar o /btw como uma sessêo extra.",
           "ref": "passos"
         },
         {
           "p": "Para que serve o /recap?",
           "opcoes": [
-            "Dar um resumo de uma linha do que a sessão fez, na hora.",
+            "Dar um resumo de uma linha do que a sessêo fez, na hora.",
             "Apagar o histórico e começar de novo.",
-            "Mandar a sessão para o segundo plano.",
+            "Mandar a sessêo para o segundo plano.",
             "Salvar a conversa inteira num arquivo de texto dentro da pasta do projeto."
           ],
           "certa": 0,
@@ -289,27 +289,27 @@
           "ref": "passos"
         },
         {
-          "p": "No app Desktop, como abrir uma segunda sessão lado a lado com a atual?",
+          "p": "No app Desktop, como abrir uma segunda sessêo lado a lado com a atual?",
           "opcoes": [
             "Digitar /split na conversa.",
             "Abrir o claude.ai numa segunda aba do navegador, ao lado do app Desktop.",
-            "Alt+clique (Option no Mac) na sessão da barra lateral.",
+            "Alt+clique (Option no Mac) na sessêo da barra lateral.",
             "Arrastar a conversa para fora da janela."
           ],
           "certa": 2,
-          "explica": "Alt+clique, ou botão direito → Open in → Split view. Para tirar do split: Ctrl+Alt+W (Cmd+Ctrl+W no Mac).",
+          "explica": "Alt+clique, ou botêo direito → Open in → Split view. Para tirar do split: Ctrl+Alt+W (Cmd+Ctrl+W no Mac).",
           "ref": "passos"
         },
         {
-          "p": "Por que dar uma cor a cada sessão com /color?",
+          "p": "Por que dar uma cor a cada sessêo com /color?",
           "opcoes": [
-            "Porque a cor muda o modelo usado pela sessão.",
-            "Para reconhecer a sessão de relance, inclusive na agent view.",
-            "Porque sem cor a sessão não pode ir para o segundo plano nem aparecer na lista.",
-            "Para a sessão gastar menos contexto."
+            "Porque a cor muda o modelo usado pela sessêo.",
+            "Para reconhecer a sessêo de relance, inclusive na agent view.",
+            "Porque sem cor a sessêo nêo pode ir para o segundo plano nem aparecer na lista.",
+            "Para a sessêo gastar menos contexto."
           ],
           "certa": 1,
-          "explica": "A cor é só identificação, e aparece na lista de sessões da agent view. Ela não muda modelo, custo nem o que a sessão pode fazer.",
+          "explica": "A cor é só identificaçêo, e aparece na lista de sessões da agent view. Ela nêo muda modelo, custo nem o que a sessêo pode fazer.",
           "ref": "diagrama"
         }
       ]
@@ -324,11 +324,11 @@
         },
         {
           "t": "Onde parei",
-          "texto": "/recap dá uma linha de resumo; /color marca a sessão com uma cor."
+          "texto": "/recap dá uma linha de resumo; /color marca a sessêo com uma cor."
         },
         {
           "t": "Lado a lado",
-          "texto": "No app Desktop, Alt+clique abre a segunda sessão em split view."
+          "texto": "No app Desktop, Alt+clique abre a segunda sessêo em split view."
         }
       ]
     },
@@ -337,12 +337,12 @@
       "titulo": "Para ir além",
       "links": [
         {
-          "t": "Comandos do Claude Code: documentação oficial (em inglês)",
+          "t": "Comandos do Claude Code: documentaçêo oficial (em inglês)",
           "href": "https://code.claude.com/docs/en/commands",
           "icone": "terminal"
         },
         {
-          "t": "App Desktop do Claude Code: documentação oficial (em inglês)",
+          "t": "App Desktop do Claude Code: documentaçêo oficial (em inglês)",
           "href": "https://code.claude.com/docs/en/desktop",
           "icone": "camadas"
         }

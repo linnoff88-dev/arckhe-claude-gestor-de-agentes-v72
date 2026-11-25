@@ -2,11 +2,11 @@
   "slug": "sessao-gestora",
   "num": 4,
   "menu": "Gestora",
-  "titulo": "A sessão gestora: ela coordena, você decide",
-  "titulo_curto": "Sessão gestora",
+  "titulo": "A sessêo gestora: ela coordena, você decide",
+  "titulo_curto": "Sessêo gestora",
   "minutos": 18,
-  "lead": "Com várias sessões rodando, alguém precisa acompanhar quem terminou, quem travou e o que sobe para você. O curso chama esse papel de sessão gestora. Não é um botão do Claude: é um jeito de trabalhar, montado com recursos oficiais. Nesta aula você escreve as instruções da sua gestora e treina o que ela resolve sozinha e o que traz para você.",
-  "objetivo": "Escrever as instruções de uma sessão gestora: o que ela acompanha, decide sozinha e sobe para você.",
+  "lead": "Com várias sessões rodando, alguém precisa acompanhar quem terminou, quem travou e o que sobe para você. O curso chama esse papel de sessêo gestora. Nêo é um botêo do Claude: é um jeito de trabalhar, montado com recursos oficiais. Nesta aula você escreve as instruções da sua gestora e treina o que ela resolve sozinha e o que traz para você.",
+  "objetivo": "Escrever as instruções de uma sessêo gestora: o que ela acompanha, decide sozinha e sobe para você.",
   "competencias": [
     "definir-o-que-a-gestora-decide",
     "escolher-o-caminho-de-coordenacao",
@@ -15,7 +15,7 @@
   "aprende": [
     {
       "icone": "cerebro",
-      "t": "O que é a sessão gestora (e o que ela não é)"
+      "t": "O que é a sessêo gestora (e o que ela nêo é)"
     },
     {
       "icone": "camadas",
@@ -27,7 +27,7 @@
     },
     {
       "icone": "chat",
-      "t": "Treinar as decisões que são só suas"
+      "t": "Treinar as decisões que sêo só suas"
     }
   ],
   "hero_alt": "Uma pessoa no centro de uma mesa escura lê o status das tarefas num tablet; ao redor, robôs humanoides trabalham cada um na sua tela.",
@@ -52,7 +52,7 @@
               "t": "corta"
             }
           ],
-          "detalhe": "Você fica com as decisões: o que entra, o que sai, o que pode ir para o cliente e o que custa dinheiro. Não acompanha cada passo. Lê o status e responde quando a gestora pede."
+          "detalhe": "Você fica com as decisões: o que entra, o que sai, o que pode ir para o cliente e o que custa dinheiro. Nêo acompanha cada passo. Lê o status e responde quando a gestora pede."
         },
         {
           "icone": "cerebro",
@@ -70,7 +70,7 @@
               "t": "sobe o grande"
             }
           ],
-          "detalhe": "Uma sessão com instruções escritas, ou você mesmo seguindo essas instruções na agent view. Ela sabe quais sessões existem, o que pode resolver sem você, o que precisa do seu OK e como reportar. Sem instruções, ela chama você para tudo ou decide o que não devia."
+          "detalhe": "Uma sessêo com instruções escritas, ou você mesmo seguindo essas instruções na agent view. Ela sabe quais sessões existem, o que pode resolver sem você, o que precisa do seu OK e como reportar. Sem instruções, ela chama você para tudo ou decide o que nêo devia."
         },
         {
           "icone": "robo",
@@ -111,44 +111,44 @@
               "sub": "lead"
             }
           ],
-          "detalhe": "O Claude não tem um recurso chamado sessão gestora. O papel se monta com um destes: no app Desktop, uma sessão que conversa com as outras (Work across sessions); a agent view (você é a gestora); os Projects (uma conversa que coordena threads na nuvem); ou os agent teams (uma sessão lead coordena colegas; experimental)."
+          "detalhe": "O Claude nêo tem um recurso chamado sessêo gestora. O papel se monta com um destes: no app Desktop, uma sessêo que conversa com as outras (Work across sessions); a agent view (você é a gestora); os Projects (uma conversa que coordena threads na nuvem); ou os agent teams (uma sessêo lead coordena colegas; experimental)."
         }
       ],
       "volta": "o status volta para você",
-      "legenda": "A gestora acompanha e propõe. A decisão que importa continua sua.",
+      "legenda": "A gestora acompanha e propõe. A decisêo que importa continua sua.",
       "rolagem": true,
       "rolagem_fim": {
         "titulo": "Você no centro das decisões",
-        "texto": "As executoras fazem, a gestora acompanha e filtra, e só chega até você o que é decisão de verdade. As instruções escritas são o que faz isso funcionar."
+        "texto": "As executoras fazem, a gestora acompanha e filtra, e só chega até você o que é decisêo de verdade. As instruções escritas sêo o que faz isso funcionar."
       }
     },
     {
       "tipo": "passos",
       "titulo": "Os quatro caminhos oficiais",
-      "sub": "O papel é o mesmo nos quatro. Muda quem faz a coordenação e onde o trabalho roda.",
+      "sub": "O papel é o mesmo nos quatro. Muda quem faz a coordenaçêo e onde o trabalho roda.",
       "passos": [
         {
           "titulo": "Desktop",
           "sub": "sem terminal",
           "texto": [
-            "Para quem não usa terminal, é o caminho mais simples. Na aba Code do app Desktop, uma sessão consegue trabalhar com as outras (o recurso se chama Work across sessions): lista as outras sessões, lê o que cada uma fez e manda mensagens entre elas. Também renomeia ou arquiva sessões, se você pedir.",
-            "Você pede em linguagem simples, numa sessão que faz o papel de gestora. Ela só vê as sessões do próprio Desktop que rodam no seu computador, em outro computador pela rede (SSH) ou no Linux dentro do Windows (WSL): não vê as da nuvem nem as do terminal. Por padrão, olha as 20 mais recentes."
+            "Para quem nêo usa terminal, é o caminho mais simples. Na aba Code do app Desktop, uma sessêo consegue trabalhar com as outras (o recurso se chama Work across sessions): lista as outras sessões, lê o que cada uma fez e manda mensagens entre elas. Também renomeia ou arquiva sessões, se você pedir.",
+            "Você pede em linguagem simples, numa sessêo que faz o papel de gestora. Ela só vê as sessões do próprio Desktop que rodam no seu computador, em outro computador pela rede (SSH) ou no Linux dentro do Windows (WSL): nêo vê as da nuvem nem as do terminal. Por padrêo, olha as 20 mais recentes."
           ],
           "exemplo": {
             "rot": "Frases da Ana",
-            "texto": "\"Qual sessão está esperando por mim?\" · \"Avise a sessão da loja que a tabela de preços mudou.\" · \"Qual sessão mexeu no relatório da padaria?\""
+            "texto": "\"Qual sessêo está esperando por mim?\" · \"Avise a sessêo da loja que a tabela de preços mudou.\" · \"Qual sessêo mexeu no relatório da padaria?\""
           }
         },
         {
           "titulo": "Agent view",
           "sub": "você é a gestora",
           "texto": [
-            "Para quem usa terminal, é o caminho mais simples. Você despacha as executoras com <code>claude --bg</code> (aula 3) e faz o papel de gestora olhando a agent view. As instruções viram o seu roteiro: o que você deixa cada sessão resolver e quando você entra.",
+            "Para quem usa terminal, é o caminho mais simples. Você despacha as executoras com <code>claude --bg</code> (aula 3) e faz o papel de gestora olhando a agent view. As instruções viram o seu roteiro: o que você deixa cada sessêo resolver e quando você entra.",
             "Roda no seu computador, que precisa ficar ligado. É uma prévia de pesquisa (research preview) do Claude Code: pode mudar."
           ],
           "exemplo": {
             "rot": "Bom para",
-            "texto": "Começar. Você aprende o que dá para delegar antes de entregar a coordenação para outra sessão."
+            "texto": "Começar. Você aprende o que dá para delegar antes de entregar a coordenaçêo para outra sessêo."
           }
         },
         {
@@ -156,59 +156,59 @@
           "sub": "uma conversa coordena",
           "texto": [
             "Um projeto é uma conversa contínua em que o Claude coordena trabalho relacionado: ele abre uma thread (um fio de trabalho) por tarefa. Cada thread normalmente roda na nuvem, sem o seu computador. O painel Overview mostra um ponto quando uma thread espera você.",
-            "As instruções do projeto são o brief de toda thread nova: é ali que entram as suas instruções de gestora. Fica em claude.ai/code ou na aba Code do app Desktop."
+            "As instruções do projeto sêo o brief de toda thread nova: é ali que entram as suas instruções de gestora. Fica em claude.ai/code ou na aba Code do app Desktop."
           ],
           "exemplo": {
             "rot": "Estado hoje",
-            "texto": "Beta pública nos planos Pro e Max, liberando aos poucos; ainda não em Team nem Enterprise. Sem acesso, aparece a lista de espera. O trabalho sai do seu computador: decida o que pode subir (aula 5)."
+            "texto": "Beta pública nos planos Pro e Max, liberando aos poucos; ainda nêo em Team nem Enterprise. Sem acesso, aparece a lista de espera. O trabalho sai do seu computador: decida o que pode subir (aula 5)."
           }
         },
         {
           "titulo": "Agent teams",
           "sub": "opcional · avançado",
           "texto": [
-            "Uma sessão vira o lead (a líder): coordena, distribui e junta os resultados. Os teammates (colegas de time) são outras sessões que trabalham cada uma no seu contexto, conversam entre si, e você pode falar direto com uma delas. Há uma lista de tarefas compartilhada: pendente, em andamento, concluída; uma tarefa pode esperar outra.",
+            "Uma sessêo vira o lead (a líder): coordena, distribui e junta os resultados. Os teammates (colegas de time) sêo outras sessões que trabalham cada uma no seu contexto, conversam entre si, e você pode falar direto com uma delas. Há uma lista de tarefas compartilhada: pendente, em andamento, concluída; uma tarefa pode esperar outra.",
             "É opcional e avançado, e vem desligado. Liga com uma variável de ambiente (um ajuste com nome e valor que o programa lê ao abrir): <code>CLAUDE_CODE_EXPERIMENTAL_AGENT_TEAMS=1</code>. No Windows, abra o PowerShell (menu Iniciar → digite PowerShell) e use o bloco do Windows abaixo; no Mac ou Linux, o bloco do terminal.",
-            "Para deixar ligado de vez, use o settings.json, o arquivo de configuração do Claude Code em JSON (texto organizado em campos, que programas leem). Ele fica em ~/.claude/settings.json no Mac e no Linux (o ~ é a sua pasta pessoal) e em C:\\Users\\[você]\\.claude\\settings.json no Windows. Se o arquivo não existir, crie com só o bloco mostrado abaixo; se já existir, junte a parte env ao que está nele."
+            "Para deixar ligado de vez, use o settings.json, o arquivo de configuraçêo do Claude Code em JSON (texto organizado em campos, que programas leem). Ele fica em ~/.claude/settings.json no Mac e no Linux (o ~ é a sua pasta pessoal) e em C:\\Users\\[você]\\.claude\\settings.json no Windows. Se o arquivo nêo existir, crie com só o bloco mostrado abaixo; se já existir, junte a parte env ao que está nele."
           ],
           "exemplo": {
             "rot": "Limites de hoje",
-            "texto": "Um time por sessão, colega não cria colega, o lead é fixo, o /resume (que reabre uma conversa antiga) não traz de volta os colegas e o status das tarefas pode atrasar. Antes de montar um time, veja se subagentes resolvem: ajudantes que uma sessão cria por dentro e que só devolvem o resultado para ela. É mais leve."
+            "texto": "Um time por sessêo, colega nêo cria colega, o lead é fixo, o /resume (que reabre uma conversa antiga) nêo traz de volta os colegas e o status das tarefas pode atrasar. Antes de montar um time, veja se subagentes resolvem: ajudantes que uma sessêo cria por dentro e que só devolvem o resultado para ela. É mais leve."
           }
         },
         {
           "titulo": "Qual escolher",
           "sub": "regra simples",
           "texto": [
-            "Sem terminal: Desktop, com uma sessão gestora conversando com as outras. Com terminal, começando agora ou com arquivos que não podem sair da máquina: agent view, com você de gestora. Trabalho longo, longe do computador, com dados que podem ir para a nuvem: Projects. Partes que precisam conversar entre si, e você topa um recurso experimental: agent teams.",
-            "Nos quatro, as instruções são as mesmas. Por isso o modelo abaixo vem antes da escolha."
+            "Sem terminal: Desktop, com uma sessêo gestora conversando com as outras. Com terminal, começando agora ou com arquivos que nêo podem sair da máquina: agent view, com você de gestora. Trabalho longo, longe do computador, com dados que podem ir para a nuvem: Projects. Partes que precisam conversar entre si, e você topa um recurso experimental: agent teams.",
+            "Nos quatro, as instruções sêo as mesmas. Por isso o modelo abaixo vem antes da escolha."
           ],
           "exemplo": {
             "rot": "A Ana escolheu",
-            "texto": "Ela começa como gestora na agent view: o relatório da padaria roda no computador dela e os posts da clínica em segundo plano. Para a nuvem, nos Projects, vai só a pesquisa dos preços dos concorrentes da loja, que não tem dado de cliente (aula 5)."
+            "texto": "Ela começa como gestora na agent view: o relatório da padaria roda no computador dela e os posts da clínica em segundo plano. Para a nuvem, nos Projects, vai só a pesquisa dos preços dos concorrentes da loja, que nêo tem dado de cliente (aula 5)."
           }
         }
       ]
     },
     {
       "tipo": "codigo",
-      "titulo": "Modelo: INSTRUÇÕES DA SESSÃO GESTORA",
+      "titulo": "Modelo: INSTRUÇÕES DA SESSêO GESTORA",
       "sub": "Um campo por linha. Troque o texto entre < > pelo seu. Depois, um bloco para entregar em cada caminho.",
       "blocos": [
         {
           "rot": "instrucoes-gestora.txt",
           "icone": "arquivo",
-          "conteudo": "INSTRUÇÕES DA SESSÃO GESTORA\nObjetivo: <o resultado que fecha esta rodada, em uma frase, com dia e hora>\nSessões: <na mesma linha, separadas por ponto e vírgula: nome · o que faz · o que entrega>\nDecide sozinha: <o que ela resolve sem me chamar: ordem, refazer o que não passou, pedir ajuste a uma sessão>\nPrecisa do meu OK: <o que ela nunca faz sem mim: ir para o cliente, gastar, prometer prazo, apagar, abrir sessão nova>\nPronto quando: <como cada entrega é conferida antes de ser dada como concluída>\nFormato do status: <uma linha por sessão: concluído, bloqueado (com o motivo) ou precisa de você (com a pergunta)>\nQuando avisar: <em que momentos ela me chama e quando fica quieta>"
+          "conteudo": "INSTRUÇÕES DA SESSêO GESTORA\nObjetivo: <o resultado que fecha esta rodada, em uma frase, com dia e hora>\nSessões: <na mesma linha, separadas por ponto e vírgula: nome · o que faz · o que entrega>\nDecide sozinha: <o que ela resolve sem me chamar: ordem, refazer o que nêo passou, pedir ajuste a uma sessêo>\nPrecisa do meu OK: <o que ela nunca faz sem mim: ir para o cliente, gastar, prometer prazo, apagar, abrir sessêo nova>\nPronto quando: <como cada entrega é conferida antes de ser dada como concluída>\nFormato do status: <uma linha por sessêo: concluído, bloqueado (com o motivo) ou precisa de você (com a pergunta)>\nQuando avisar: <em que momentos ela me chama e quando fica quieta>"
         },
         {
-          "rot": "Entregar · Desktop (numa sessão da aba Code)",
+          "rot": "Entregar · Desktop (numa sessêo da aba Code)",
           "icone": "chat",
-          "conteudo": "Você é a sessão gestora das outras sessões desta aba Code. Siga as instruções abaixo.\nQuando eu pedir status, olhe o que cada sessão fez e responda no formato pedido.\nPara falar com uma sessão, mande a mensagem a ela e me diga o que mandou.\n\n<cole aqui as INSTRUÇÕES DA SESSÃO GESTORA>\n\n# depois, frases do dia a dia:\nQual sessão está esperando por mim?\nAvise a sessão da loja que a tabela de preços mudou.\nRenomeie as sessões com o nome do cliente e da tarefa."
+          "conteudo": "Você é a sessêo gestora das outras sessões desta aba Code. Siga as instruções abaixo.\nQuando eu pedir status, olhe o que cada sessêo fez e responda no formato pedido.\nPara falar com uma sessêo, mande a mensagem a ela e me diga o que mandou.\n\n<cole aqui as INSTRUÇÕES DA SESSêO GESTORA>\n\n# depois, frases do dia a dia:\nQual sessêo está esperando por mim?\nAvise a sessêo da loja que a tabela de preços mudou.\nRenomeie as sessões com o nome do cliente e da tarefa."
         },
         {
           "rot": "Entregar · Projects (instruções do projeto ou 1ª mensagem)",
           "icone": "chat",
-          "conteudo": "Você coordena este projeto como sessão gestora. Siga as instruções abaixo.\nProponha as threads e espere meu OK antes de abrir.\nNo máximo três threads ao mesmo tempo.\nSó poste quando algo terminar ou travar.\n\n<cole aqui as INSTRUÇÕES DA SESSÃO GESTORA>"
+          "conteudo": "Você coordena este projeto como sessêo gestora. Siga as instruções abaixo.\nProponha as threads e espere meu OK antes de abrir.\nNo máximo três threads ao mesmo tempo.\nSó poste quando algo terminar ou travar.\n\n<cole aqui as INSTRUÇÕES DA SESSêO GESTORA>"
         },
         {
           "rot": "Opcional · agent teams 1/2 · Mac ou Linux (terminal)",
@@ -226,14 +226,14 @@
           "conteudo": "{\"env\": {\"CLAUDE_CODE_EXPERIMENTAL_AGENT_TEAMS\": \"1\"}}"
         },
         {
-          "rot": "Opcional · agent teams 2/2 · pedido ao lead (dentro da sessão)",
+          "rot": "Opcional · agent teams 2/2 · pedido ao lead (dentro da sessêo)",
           "icone": "chat",
-          "conteudo": "Monte um time para este trabalho. Você é o lead e segue as instruções abaixo.\nCrie uma tarefa por sessão na lista compartilhada e marque as que dependem de outra.\nMe traga o status no formato pedido.\n\n<cole aqui as INSTRUÇÕES DA SESSÃO GESTORA>"
+          "conteudo": "Monte um time para este trabalho. Você é o lead e segue as instruções abaixo.\nCrie uma tarefa por sessêo na lista compartilhada e marque as que dependem de outra.\nMe traga o status no formato pedido.\n\n<cole aqui as INSTRUÇÕES DA SESSêO GESTORA>"
         },
         {
           "rot": "Usar · agent view (você é a gestora)",
           "icone": "lista",
-          "conteudo": "# uma linha por sessão das instruções\nclaude --bg --name <nome-da-sessao-1> \"<o que ela faz e o que entrega>\"\nclaude --bg --name <nome-da-sessao-2> \"<o que ela faz e o que entrega>\"\nclaude --bg --name <nome-da-sessao-3> \"<o que ela faz e o que entrega>\"\nclaude agents\n# na caixa da agent view, digite s:blocked para ver tudo que espera você"
+          "conteudo": "# uma linha por sessêo das instruções\nclaude --bg --name <nome-da-sessao-1> \"<o que ela faz e o que entrega>\"\nclaude --bg --name <nome-da-sessao-2> \"<o que ela faz e o que entrega>\"\nclaude --bg --name <nome-da-sessao-3> \"<o que ela faz e o que entrega>\"\nclaude agents\n# na caixa da agent view, digite s:blocked para ver tudo que espera você"
         }
       ],
       "saida": {
@@ -241,7 +241,7 @@
         "abas": [
           {
             "rot": "Instruções da Ana",
-            "html": "<ul><li><b>Objetivo:</b> o relatório semanal da padaria na segunda às 10h; os posts da semana da clínica e a planilha de preços da loja até sexta às 18h.</li><li><b>Sessões:</b> padaria-relatorio · escreve o relatório semanal · entrega uma página; clinica-posts · escreve os posts da semana · entrega 5 posts com legenda; loja-planilha · atualiza a planilha de preços · entrega a planilha com totais.</li><li><b>Decide sozinha:</b> a ordem das tarefas, refazer um texto que não passou na conferência, pedir a uma sessão que resuma melhor.</li><li><b>Precisa do meu OK:</b> qualquer coisa que vá para o cliente, preço, promessa de prazo, apagar arquivo, abrir sessão nova.</li><li><b>Pronto quando:</b> cada entrega foi conferida contra o pedido do cliente e traz uma linha dizendo como foi conferida.</li><li><b>Formato do status:</b> uma linha por sessão: concluído, bloqueado (com o motivo) ou precisa de você (com a pergunta).</li><li><b>Quando avisar:</b> quando algo terminar, travar ou precisar de mim; um resumo às 12h e às 17h.</li></ul>"
+            "html": "<ul><li><b>Objetivo:</b> o relatório semanal da padaria na segunda às 10h; os posts da semana da clínica e a planilha de preços da loja até sexta às 18h.</li><li><b>Sessões:</b> padaria-relatorio · escreve o relatório semanal · entrega uma página; clinica-posts · escreve os posts da semana · entrega 5 posts com legenda; loja-planilha · atualiza a planilha de preços · entrega a planilha com totais.</li><li><b>Decide sozinha:</b> a ordem das tarefas, refazer um texto que nêo passou na conferência, pedir a uma sessêo que resuma melhor.</li><li><b>Precisa do meu OK:</b> qualquer coisa que vá para o cliente, preço, promessa de prazo, apagar arquivo, abrir sessêo nova.</li><li><b>Pronto quando:</b> cada entrega foi conferida contra o pedido do cliente e traz uma linha dizendo como foi conferida.</li><li><b>Formato do status:</b> uma linha por sessêo: concluído, bloqueado (com o motivo) ou precisa de você (com a pergunta).</li><li><b>Quando avisar:</b> quando algo terminar, travar ou precisar de mim; um resumo às 12h e às 17h.</li></ul>"
           },
           {
             "rot": "Status no formato",
@@ -249,11 +249,11 @@
           },
           {
             "rot": "Outra (consultor)",
-            "html": "<ul><li><b>Objetivo:</b> entregar ao cliente, na terça às 10h, o relatório, a planilha de custos e a página do projeto.</li><li><b>Sessões:</b> relatorio · escreve o texto · entrega 8 páginas; planilha · monta os custos · entrega a planilha com totais; site · atualiza a página · entrega o texto novo.</li><li><b>Decide sozinha:</b> formatação, ordem das seções, pedir à planilha os números que o relatório cita.</li><li><b>Precisa do meu OK:</b> qualquer número que mude o total, qualquer frase com promessa ao cliente, publicar a página.</li><li><b>Pronto quando:</b> todo número do relatório bate com a planilha e cada seção foi lida contra o pedido.</li><li><b>Formato do status:</b> concluído, bloqueado ou precisa de você, uma linha por sessão.</li><li><b>Quando avisar:</b> quando uma sessão travar ou precisar de mim; fora disso, um resumo às 18h.</li></ul>"
+            "html": "<ul><li><b>Objetivo:</b> entregar ao cliente, na terça às 10h, o relatório, a planilha de custos e a página do projeto.</li><li><b>Sessões:</b> relatorio · escreve o texto · entrega 8 páginas; planilha · monta os custos · entrega a planilha com totais; site · atualiza a página · entrega o texto novo.</li><li><b>Decide sozinha:</b> formataçêo, ordem das seções, pedir à planilha os números que o relatório cita.</li><li><b>Precisa do meu OK:</b> qualquer número que mude o total, qualquer frase com promessa ao cliente, publicar a página.</li><li><b>Pronto quando:</b> todo número do relatório bate com a planilha e cada seçêo foi lida contra o pedido.</li><li><b>Formato do status:</b> concluído, bloqueado ou precisa de você, uma linha por sessêo.</li><li><b>Quando avisar:</b> quando uma sessêo travar ou precisar de mim; fora disso, um resumo às 18h.</li></ul>"
           },
           {
             "rot": "Erros comuns",
-            "html": "<ul><li><b>\"Decide sozinha: tudo\"</b>: a gestora passa a decidir preço e prazo por você. Liste o que ela pode.</li><li><b>Precisa do meu OK vazio</b>: ela não sabe onde parar. Comece pelo que vai para o cliente.</li><li><b>\"Me avise de tudo\"</b>: vira barulho e você volta a acompanhar cada resposta.</li><li><b>Status em parágrafo</b>: você tem de ler tudo para achar o que pede você. Três estados, uma linha por sessão.</li><li><b>Sem Pronto quando</b>: \"concluído\" passa a querer dizer só que a sessão parou.</li></ul>"
+            "html": "<ul><li><b>\"Decide sozinha: tudo\"</b>: a gestora passa a decidir preço e prazo por você. Liste o que ela pode.</li><li><b>Precisa do meu OK vazio</b>: ela nêo sabe onde parar. Comece pelo que vai para o cliente.</li><li><b>\"Me avise de tudo\"</b>: vira barulho e você volta a acompanhar cada resposta.</li><li><b>Status em parágrafo</b>: você tem de ler tudo para achar o que pede você. Três estados, uma linha por sessêo.</li><li><b>Sem Pronto quando</b>: \"concluído\" passa a querer dizer só que a sessêo parou.</li></ul>"
           }
         ]
       }
@@ -263,8 +263,8 @@
       "titulo": "Confira as instruções da sua gestora",
       "sub": "Cole as suas instruções (ou carregue o .txt). A página confere os sete campos, pede no Formato do status os três estados (concluído, bloqueado, precisa de você), pede em Quando avisar um momento concreto (terminar, travar, precisar de você ou um horário) e recusa \"o que achar melhor\" em Decide sozinha. É uma checagem de forma: se o que ela decide está certo, quem julga é você.",
       "arquivo": "instrucoes-gestora.txt",
-      "rot": "Cole aqui as instruções da sua sessão gestora (um campo por linha):",
-      "modelo": "INSTRUÇÕES DA SESSÃO GESTORA\nObjetivo: ...\nSessões: ...\nDecide sozinha: ...\nPrecisa do meu OK: ...\nPronto quando: ...\nFormato do status: ...\nQuando avisar: ...",
+      "rot": "Cole aqui as instruções da sua sessêo gestora (um campo por linha):",
+      "modelo": "INSTRUÇÕES DA SESSêO GESTORA\nObjetivo: ...\nSessões: ...\nDecide sozinha: ...\nPrecisa do meu OK: ...\nPronto quando: ...\nFormato do status: ...\nQuando avisar: ...",
       "regras": [
         {
           "tipo": "campos",
@@ -300,7 +300,7 @@
               "rot": "no Formato do status o estado precisa de você",
               "campo": "Formato do status",
               "termos": [
-                "precisa de você / precisa de mim / precisa do meu ok / needs input / needs you / needs me / necesita de ti / necesita de mí / te necesita / me necesita / aguardando você / espera você / waiting for you / waiting on you / esperando tu decisión / pendiente de ti / aguardando minha decisão / aguardando decisão / aguardando sua decisão / aguardando você / esperando você / esperando minha decisão / awaiting my decision / awaiting decision / waiting for my decision / esperando mi decisión / esperando tu decisión / esperando decisión / pendiente de mi decisión"
+                "precisa de você / precisa de mim / precisa do meu ok / needs input / needs you / needs me / necesita de ti / necesita de mí / te necesita / me necesita / aguardando você / espera você / waiting for you / waiting on you / esperando tu decisión / pendiente de ti / aguardando minha decisêo / aguardando decisêo / aguardando sua decisêo / aguardando você / esperando você / esperando minha decisêo / awaiting my decision / awaiting decision / waiting for my decision / esperando mi decisión / esperando tu decisión / esperando decisión / pendiente de mi decisión"
               ]
             },
             {
@@ -350,16 +350,16 @@
         }
       ],
       "ok": "OK: instruções com os {n} campos e o status em três estados",
-      "exemplo": "INSTRUÇÕES DA SESSÃO GESTORA\nObjetivo: o relatório semanal da padaria na segunda às 10h; os posts da semana da clínica e a planilha de preços da loja até sexta às 18h.\nSessões: padaria-relatorio · escreve o relatório semanal · entrega uma página; clinica-posts · escreve os posts da semana · entrega 5 posts com legenda; loja-planilha · atualiza a planilha de preços · entrega a planilha com totais.\nDecide sozinha: a ordem das tarefas, refazer um texto que não passou na conferência, pedir a uma sessão que resuma melhor.\nPrecisa do meu OK: qualquer coisa que vá para o cliente, preço, promessa de prazo, apagar arquivo, abrir sessão nova.\nPronto quando: cada entrega foi conferida contra o pedido do cliente e traz uma linha dizendo como foi conferida.\nFormato do status: uma linha por sessão: concluído, bloqueado (com o motivo) ou precisa de você (com a pergunta).\nQuando avisar: quando algo terminar, travar ou precisar de mim; um resumo às 12h e às 17h.",
-      "exemplo_errado": "INSTRUÇÕES DA SESSÃO GESTORA\nObjetivo: cuidar dos três clientes da agência nesta semana.\nSessões: padaria-relatorio, clinica-posts e loja-planilha.\nDecide sozinha: tudo o que achar melhor para os clientes.\nPrecisa do meu OK: só as coisas mais importantes da semana.\nPronto quando: a sessão disser que acabou o trabalho.\nFormato do status: um resumo do que rolou em cada sessão.\nQuando avisar: quando der, sem me encher o dia inteiro."
+      "exemplo": "INSTRUÇÕES DA SESSêO GESTORA\nObjetivo: o relatório semanal da padaria na segunda às 10h; os posts da semana da clínica e a planilha de preços da loja até sexta às 18h.\nSessões: padaria-relatorio · escreve o relatório semanal · entrega uma página; clinica-posts · escreve os posts da semana · entrega 5 posts com legenda; loja-planilha · atualiza a planilha de preços · entrega a planilha com totais.\nDecide sozinha: a ordem das tarefas, refazer um texto que nêo passou na conferência, pedir a uma sessêo que resuma melhor.\nPrecisa do meu OK: qualquer coisa que vá para o cliente, preço, promessa de prazo, apagar arquivo, abrir sessêo nova.\nPronto quando: cada entrega foi conferida contra o pedido do cliente e traz uma linha dizendo como foi conferida.\nFormato do status: uma linha por sessêo: concluído, bloqueado (com o motivo) ou precisa de você (com a pergunta).\nQuando avisar: quando algo terminar, travar ou precisar de mim; um resumo às 12h e às 17h.",
+      "exemplo_errado": "INSTRUÇÕES DA SESSêO GESTORA\nObjetivo: cuidar dos três clientes da agência nesta semana.\nSessões: padaria-relatorio, clinica-posts e loja-planilha.\nDecide sozinha: tudo o que achar melhor para os clientes.\nPrecisa do meu OK: só as coisas mais importantes da semana.\nPronto quando: a sessêo disser que acabou o trabalho.\nFormato do status: um resumo do que rolou em cada sessêo.\nQuando avisar: quando der, sem me encher o dia inteiro."
     },
     {
       "tipo": "simconversa",
       "titulo": "A gestora reporta, você decide",
       "sub": "Conversa simulada para treinar. A gestora da Ana traz o status; escolha o que você responderia.",
       "personagem": {
-        "nome": "Sessão gestora da Ana",
-        "papel": "simulação · 3 sessões executoras"
+        "nome": "Sessêo gestora da Ana",
+        "papel": "simulaçêo · 3 sessões executoras"
       },
       "inicio": "abre",
       "falas": {
@@ -370,13 +370,13 @@
               "t": "Usa o da tabela da loja, que é a fonte. E anota na planilha de onde veio o número.",
               "vai": "foto",
               "nota": 2,
-              "comenta": "Decisão rápida e só sua: qual dado vale para o cliente. E você ainda pediu o registro, que ajuda a conferir depois."
+              "comenta": "Decisêo rápida e só sua: qual dado vale para o cliente. E você ainda pediu o registro, que ajuda a conferir depois."
             },
             {
               "t": "Resolve do jeito que achar melhor.",
               "vai": "fim-devolveu",
               "nota": 0,
-              "comenta": "Preço que vai para o cliente estava em Precisa do meu OK. A gestora subiu certo; você devolveu uma decisão que era sua."
+              "comenta": "Preço que vai para o cliente estava em Precisa do meu OK. A gestora subiu certo; você devolveu uma decisêo que era sua."
             },
             {
               "t": "Me manda as duas contas, linha por linha, que eu confiro tudo.",
@@ -387,48 +387,48 @@
           ]
         },
         "foto": {
-          "cliente": "Sobre a clínica: sem a foto nova, posso deixar os posts prontos com a foto antiga ou esperar. A clínica quer os posts no ar amanhã.",
+          "cliente": "Sobre a clínica: sem a foto nova, posso deixar os posts prontos com a foto antiga ou esperar. A clínica quer os posts no ar amanhê.",
           "opcoes": [
             {
               "t": "Publica com a foto antiga e já avisa a clínica que está no ar.",
               "vai": "nova",
               "nota": 1,
-              "comenta": "Você decidiu, e isso é bom. Mas ninguém perguntou à clínica se a foto antiga serve: publicar é ir para o cliente, então confirme com ele antes."
+              "comenta": "Você decidiu, e isso é bom. Mas ninguém perguntou à clínica se a foto antiga serve: publicar é ir para o cliente, entêo confirme com ele antes."
             },
             {
               "t": "Decide você se publica ou espera.",
               "vai": "fim-devolveu",
               "nota": 0,
-              "comenta": "Publicar é ir para o cliente. Essa é exatamente a linha que você escreveu para não delegar."
+              "comenta": "Publicar é ir para o cliente. Essa é exatamente a linha que você escreveu para nêo delegar."
             },
             {
-              "t": "Não publica. Deixa os posts prontos com a foto antiga e me diz a quem pedir a nova. Eu falo com a clínica hoje.",
+              "t": "Nêo publica. Deixa os posts prontos com a foto antiga e me diz a quem pedir a nova. Eu falo com a clínica hoje.",
               "vai": "nova",
               "nota": 2,
-              "comenta": "A gestora adianta o que pode e para no portão. Você cuida da conversa com o cliente, que é sua."
+              "comenta": "A gestora adianta o que pode e para no portêo. Você cuida da conversa com o cliente, que é sua."
             }
           ]
         },
         "nova": {
-          "cliente": "O relatório da padaria terminou cedo. Posso abrir uma sessão nova para adiantar uma coluna nova na planilha da loja?",
+          "cliente": "O relatório da padaria terminou cedo. Posso abrir uma sessêo nova para adiantar uma coluna nova na planilha da loja?",
           "opcoes": [
             {
               "t": "Pode, e abre também uma para adiantar os posts do mês que vem. Adianta tudo.",
               "vai": "fim-adiantou",
               "nota": 0,
-              "comenta": "Mais sessões é mais coisa para conferir e mais consumo. Você trocou um problema de prazo por um de atenção."
+              "comenta": "Mais sessões é mais coisa para conferir e mais consumo. Você trocou um problema de prazo por um de atençêo."
             },
             {
               "t": "Pode abrir, mas me avisa a cada linha da planilha que ela mudar.",
               "vai": "fim",
               "nota": 1,
-              "comenta": "Ela perguntou certo, porque abrir sessão nova pedia o seu OK. Mas aviso a cada linha vira barulho: peça o status no formato de sempre."
+              "comenta": "Ela perguntou certo, porque abrir sessêo nova pedia o seu OK. Mas aviso a cada linha vira barulho: peça o status no formato de sempre."
             },
             {
-              "t": "Ainda não. No máximo três sessões ao mesmo tempo. Grava essa regra nas instruções.",
+              "t": "Ainda nêo. No máximo três sessões ao mesmo tempo. Grava essa regra nas instruções.",
               "vai": "fim",
               "nota": 2,
-              "comenta": "Você decidiu e transformou a decisão em regra. Na próxima vez a gestora já sabe: uma pergunta a menos para você."
+              "comenta": "Você decidiu e transformou a decisêo em regra. Na próxima vez a gestora já sabe: uma pergunta a menos para você."
             }
           ]
         },
@@ -439,8 +439,8 @@
         },
         "fim-devolveu": {
           "fim": true,
-          "titulo": "A decisão voltou para a gestora",
-          "texto": "Ela subiu uma decisão que as instruções reservavam para você, e você devolveu. Quando isso acontece, ou você decide, ou muda as instruções para dizer o que ela pode resolver sozinha. As duas coisas ao mesmo tempo não funcionam."
+          "titulo": "A decisêo voltou para a gestora",
+          "texto": "Ela subiu uma decisêo que as instruções reservavam para você, e você devolveu. Quando isso acontece, ou você decide, ou muda as instruções para dizer o que ela pode resolver sozinha. As duas coisas ao mesmo tempo nêo funcionam."
         },
         "fim-adiantou": {
           "fim": true,
@@ -448,11 +448,11 @@
           "texto": "Você abriu mais sessões do que pediu e cada uma é mais uma entrega para conferir. A gestora fez a parte dela; a pressa ficou com você. Na próxima, decida com um limite: quantas sessões ao mesmo tempo."
         }
       },
-      "licao": "A gestora acompanha e propõe; você decide o que vai para o cliente, o que custa e o que abre trabalho novo. Cada decisão que se repete vira uma linha nas instruções."
+      "licao": "A gestora acompanha e propõe; você decide o que vai para o cliente, o que custa e o que abre trabalho novo. Cada decisêo que se repete vira uma linha nas instruções."
     },
     {
       "tipo": "pratica",
-      "titulo": "Prática: a sua sessão gestora",
+      "titulo": "Prática: a sua sessêo gestora",
       "sub": "Use um trabalho real seu com 2 a 4 frentes andando ao mesmo tempo (o inventário da aula 1 serve).",
       "exercicios": [
         {
@@ -473,8 +473,8 @@
           "id": "e3",
           "titulo": "E3 · A primeira rodada",
           "min": "30 min",
-          "texto": "Entregue as instruções com o bloco do caminho escolhido e peça o primeiro status. Sem terminal: no app Desktop, abra uma sessão por frente (Ctrl+N) e mais uma para a gestora, cole nela o bloco do Desktop e pergunte \"qual sessão está esperando por mim?\". Na agent view, você mesmo monta o status olhando a tela.",
-          "pronto": "existe um status com uma linha por sessão, cada uma em concluído, bloqueado ou precisa de você, e você respondeu a pelo menos um precisa de você."
+          "texto": "Entregue as instruções com o bloco do caminho escolhido e peça o primeiro status. Sem terminal: no app Desktop, abra uma sessêo por frente (Ctrl+N) e mais uma para a gestora, cole nela o bloco do Desktop e pergunte \"qual sessêo está esperando por mim?\". Na agent view, você mesmo monta o status olhando a tela.",
+          "pronto": "existe um status com uma linha por sessêo, cada uma em concluído, bloqueado ou precisa de você, e você respondeu a pelo menos um precisa de você."
         }
       ]
     },
@@ -487,18 +487,18 @@
     {
       "tipo": "quiz",
       "titulo": "Teste o que aprendeu",
-      "sub": "A explicação aparece depois da sua resposta.",
+      "sub": "A explicaçêo aparece depois da sua resposta.",
       "perguntas": [
         {
-          "p": "O que é a sessão gestora neste curso?",
+          "p": "O que é a sessêo gestora neste curso?",
           "opcoes": [
-            "Um botão novo do Claude Code que cria, nomeia e organiza as sessões sozinho.",
+            "Um botêo novo do Claude Code que cria, nomeia e organiza as sessões sozinho.",
             "Um papel: acompanhar as sessões, resolver o pequeno e subir o grande.",
             "Um plano pago que libera várias sessões ao mesmo tempo na conta.",
-            "O nome oficial da agent view na documentação do Claude Code."
+            "O nome oficial da agent view na documentaçêo do Claude Code."
           ],
           "certa": 1,
-          "explica": "É um conceito do curso, montado com recursos oficiais (Desktop, agent view, Projects ou agent teams). Procurar um botão chamado sessão gestora é o erro comum.",
+          "explica": "É um conceito do curso, montado com recursos oficiais (Desktop, agent view, Projects ou agent teams). Procurar um botêo chamado sessêo gestora é o erro comum.",
           "ref": "diagrama"
         },
         {
@@ -514,15 +514,15 @@
           "ref": "passos"
         },
         {
-          "p": "Você usa só o app Desktop, sem terminal. Como saber qual sessão está esperando por você?",
+          "p": "Você usa só o app Desktop, sem terminal. Como saber qual sessêo está esperando por você?",
           "opcoes": [
-            "Perguntar numa sessão da aba Code, em linguagem simples.",
+            "Perguntar numa sessêo da aba Code, em linguagem simples.",
             "Rodar claude agents no PowerShell e filtrar com s:blocked.",
             "Ligar os agent teams no settings.json e reabrir o app.",
             "Abrir um Project na nuvem e perguntar ao painel Overview."
           ],
           "certa": 0,
-          "explica": "Na aba Code, uma sessão lista as outras, lê o que cada uma fez e manda mensagens entre elas. As outras opções pedem terminal ou nuvem, e um Project não vê as sessões do seu Desktop.",
+          "explica": "Na aba Code, uma sessêo lista as outras, lê o que cada uma fez e manda mensagens entre elas. As outras opções pedem terminal ou nuvem, e um Project nêo vê as sessões do seu Desktop.",
           "ref": "passos"
         },
         {
@@ -531,10 +531,10 @@
             "Manda: entrega pronta pode sair.",
             "Manda e avisa depois no status.",
             "Espera o OK da Ana.",
-            "Pede a outra sessão que confira e manda."
+            "Pede a outra sessêo que confira e manda."
           ],
           "certa": 2,
-          "explica": "Tudo que vai para o cliente está em Precisa do meu OK. Conferir antes é bom, mas não troca a decisão da Ana.",
+          "explica": "Tudo que vai para o cliente está em Precisa do meu OK. Conferir antes é bom, mas nêo troca a decisêo da Ana.",
           "ref": "codigo"
         },
         {
@@ -546,7 +546,7 @@
             "Para você bater o olho e agir só no que precisa de você."
           ],
           "certa": 3,
-          "explica": "O formato é para você: uma linha por sessão e você acha na hora o que pede decisão. O Claude entende qualquer formato, e a agent view tem os grupos dela, independentes do seu status.",
+          "explica": "O formato é para você: uma linha por sessêo e você acha na hora o que pede decisêo. O Claude entende qualquer formato, e a agent view tem os grupos dela, independentes do seu status.",
           "ref": "codigo"
         }
       ]
@@ -556,12 +556,12 @@
       "titulo": "A aula em três frases",
       "itens": [
         {
-          "t": "Um papel, não um botão",
-          "texto": "A sessão gestora acompanha, resolve o pequeno e sobe para você o que é decisão."
+          "t": "Um papel, nêo um botêo",
+          "texto": "A sessêo gestora acompanha, resolve o pequeno e sobe para você o que é decisêo."
         },
         {
           "t": "Quatro caminhos",
-          "texto": "Desktop (uma sessão conversa com as outras), agent view (você gere), Projects (threads na nuvem, beta) e agent teams (lead, experimental)."
+          "texto": "Desktop (uma sessêo conversa com as outras), agent view (você gere), Projects (threads na nuvem, beta) e agent teams (lead, experimental)."
         },
         {
           "t": "As instruções",
@@ -574,17 +574,17 @@
       "titulo": "Para ir além",
       "links": [
         {
-          "t": "Agent view: documentação oficial (em inglês)",
+          "t": "Agent view: documentaçêo oficial (em inglês)",
           "href": "https://code.claude.com/docs/en/agent-view",
           "icone": "lista"
         },
         {
-          "t": "Projects no Claude Code: documentação oficial (em inglês)",
+          "t": "Projects no Claude Code: documentaçêo oficial (em inglês)",
           "href": "https://code.claude.com/docs/en/claude-projects",
           "icone": "nuvem"
         },
         {
-          "t": "Agent teams: documentação oficial (em inglês)",
+          "t": "Agent teams: documentaçêo oficial (em inglês)",
           "href": "https://code.claude.com/docs/en/agent-teams",
           "icone": "robo"
         }
